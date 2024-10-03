@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game Details</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="game-details" class="game-details"></div>
+
+    <script>
+        // Obtener el appid del juego desde la URL
+        const appid = window.location.pathname.split('/').pop();
+
+        // Cargar los detalles del juego
+        fetch(`/game/${appid}`)
+            .then(response => response.json())
+            .then(game => {
+                const detailsContainer = document.getElementById("game-details");
+
+                const gameInfo = `
+                    <h1>${game.title}</h1>
+                    <p><strong>Release date:</strong> ${game.release_date}</p>
+                    <p><strong>Price:</strong> ${game.price}</p>
+                    <p><strong>Developer:</strong> ${game.developer}</p>
+                    <p><strong>Publisher:</strong> ${game.publisher}</p>
+                    <p><strong>Tags:</strong> ${game.tags}</p>
+                    <p><strong>Genres:</strong> ${game.genres}</p>
+                    <p><strong>Description:</strong> ${game.description}</p>
+                    <p><strong>System requirements:</strong> ${game.system_requirements}</p>
+                `;
+
+                detailsContainer.innerHTML = gameInfo;
+
+                // Añadir imágenes y videos
+                game.images.forEach(img => {
+                    const imageElement = document.createElement('img');
+                    imageElement.src = img;
+                    detailsContainer.appendChild(imageElement);
+                });
+
+                game.videos.forEach(video => {
+                    const videoElement = document.createElement('video');
+                    videoElement.src = video;
+                    videoElement.controls = true;
+                    detailsContainer.appendChild(videoElement);
+                });
+            })
+            .catch(error => console.error("Error loading game details:", error));
+    </script>
+</body>
+</html>

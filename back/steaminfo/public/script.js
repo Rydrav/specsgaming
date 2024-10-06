@@ -1,55 +1,25 @@
-document.addEventListener("DOMContentLoaded", () => {
-    let currentPage = 1; // Página inicial
-    let isLoading = false; // Indica si se está cargando información
+document.getElementById('search-form').addEventListener('submit', async function (e) {
+    e.preventDefault();
+    const term = document.getElementById('term').value;
+    const sort_by = document.getElementById('sort_by').value;
+    const lang = document.getElementById('lang').value;
+    const tags = document.getElementById('tags').value;
+    const players = document.getElementById('players').value;
 
-    // Función para cargar juegos de la API con la página actual
-    function loadGames(page) {
-        isLoading = true;
-        fetch(`/games?page=${page}`)
-            .then(response => response.json())
-            .then(data => {
-                const container = document.getElementById("games-container");
-                
-                data.forEach(game => {
-                    const card = document.createElement("div");
-                    card.classList.add("game-card");
+    const res = await fetch(`/search?term=${term}&sort_by=${sort_by}&lang=${lang}&tags=${tags}&players=${players}`);
+    const games = await res.json();
 
-                    card.innerHTML = `
-                        <h2>${game.title}</h2>
-                        <p><strong>Fecha de lanzamiento:</strong> ${game.release_date}</p>
-                        <p><strong>Precio:</strong> ${game.price}</p>
-                        <p><strong>Desarrollador:</strong> ${game.developer}</p>
-                        <p><strong>Editor:</strong> ${game.publisher}</p>
-                        <p><strong>Géneros:</strong> ${game.genres}</p>
-                        <p><strong>Descripción:</strong> ${game.description}</p>
-                        <p><strong>Requisitos del sistema:</strong> ${game.system_requirements}</p>
-                    `;
-
-                    if (game.images.length > 0) {
-                        const img = document.createElement("img");
-                        img.src = game.images[0];
-                        card.appendChild(img);
-                    }
-
-                    container.appendChild(card);
-                });
-
-                isLoading = false; // Liberar la carga
-            })
-            .catch(error => {
-                console.error("Error al cargar los juegos:", error);
-                isLoading = false; // Liberar la carga incluso en caso de error
-            });
-    }
-
-    // Cargar la primera página de juegos
-    loadGames(currentPage);
-
-    // Detectar cuando el usuario llegue al final de la página
-    window.addEventListener("scroll", () => {
-        if (window.innerHeight + window.scrollY >= document.body.offsetHeight - 100 && !isLoading) {
-            currentPage++; // Incrementar el número de página
-            loadGames(currentPage); // Cargar la siguiente página
-        }
+    const resultsDiv = document.getElementById('results');
+    resultsDiv.innerHTML = '';
+    games.forEach(game => {
+        resultsDiv.innerHTML += `
+            <div class="game">
+                <img src="${game.image}" alt="${game.title}">
+                <h3>${game.title}</h3>
+                <p>Release Date: ${game.releaseDate}</p>
+                <p>Price: ${game.price}</p>
+                <a href="${game.link}" target="_blank">View on Steam</a>
+            </div>
+        `;
     });
 });

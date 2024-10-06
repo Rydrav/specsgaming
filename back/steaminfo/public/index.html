@@ -1,14 +1,56 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Juegos de Steam - Scroll Infinito</title>
+    <title>Steam Game Search</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <h1>Juegos de Steam</h1>
-    <div id="games-container"></div>
+    <div class="container">
+        <h1>Steam Game Search</h1>
+        <form id="search-form">
+            <div class="search-fields">
+                <input type="text" id="term" placeholder="Enter game name" required>
+                <button type="submit" id="search-button">Search</button>
+                <label for="sort_by">Sort By</label>
+                <select id="sort_by" class="small-select">
+                    <option value="">Relevance</option>
+                    <option value="Released_DESC">Release Date</option>
+                    <option value="Name_ASC">Name</option>
+                    <option value="Price_ASC">Price (Low to High)</option>
+                    <option value="Price_DESC">Price (High to Low)</option>
+                    <option value="Reviews_DESC">User Reviews</option>
+                </select>
+            </div>
+            <select id="lang">
+                <option value="">Select Language</option>
+                <option value="english">English</option>
+                <option value="latam">Spanish LATAM</option>
+                <option value="spanish">Spanish</option>
+                <option value="french">French</option>
+                <option value="schinese">Simplified Chinese</option>
+                <option value="tchinese">Traditional Chinese</option>
+                <option value="hindi">Hindi</option>
+            </select>
+            <select id="tags">
+                <option value="">Select Tags</option>
+                <option value="19">Action</option>
+                <option value="21">Adventure</option>
+                <option value="492">Indie</option>
+                <option value="597">Casual</option>
+                <!-- more tags here -->
+            </select>
+            <select id="players">
+                <option value="">Select Players</option>
+                <option value="2">Single Player</option>
+                <option value="1">Multiplayer</option>
+                <option value="9">Co-op</option>
+                <!-- more options here -->
+            </select>
+        </form>
+        <div id="results"></div>
+    </div>
     <script src="script.js"></script>
 </body>
 </html>

@@ -1,39 +1,89 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f9f9f9;
+    background-color: #1b1b1b;
+    color: #ffffff;
     margin: 0;
     padding: 0;
 }
 
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+
 h1 {
     text-align: center;
+    color: #ff6f61;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.search-fields {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.search-fields input {
+    margin-right: 5px;
+    padding: 10px;
+    width: 300px;
+    border-radius: 5px;
+    border: 1px solid #ff6f61;
+}
+
+.search-fields button {
+    padding: 10px 15px;
+    background-color: #ff6f61;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.search-fields select {
+    margin: 10px;
+    padding: 10px;
+    width: 300px;
+    border-radius: 5px;
+    border: 1px solid #ff6f61;
+}
+
+.search-fields label {
+    margin-right: 10px;
+    font-size: 16px;
+}
+
+button {
+    background-color: #ff6f61;
+    color: white;
+    cursor: pointer;
+}
+
+#results {
     margin-top: 20px;
-}
-
-#games-container {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
     gap: 20px;
-    padding: 20px;
 }
 
-.game-card {
-    background-color: #fff;
-    border-radius: 8px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+.game {
+    background-color: #333;
     padding: 15px;
+    border-radius: 10px;
+    text-align: center;
 }
 
-.game-card img {
+.game img {
     width: 100%;
     height: auto;
-    border-radius: 8px;
+    border-radius: 5px;
 }
 
-.game-card h2 {
-    font-size: 1.5em;
-}
 
-.game-card p {
-    margin: 10px 0;
-}

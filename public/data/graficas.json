@@ -1,0 +1,6014 @@
+[
+    {
+        "name": "GeForce RTX 4090",
+        "performance": "100.00"
+    },
+    {
+        "name": "GeForce RTX 4090 D",
+        "performance": "97.56"
+    },
+    {
+        "name": "GeForce RTX 4080",
+        "performance": "89.75"
+    },
+    {
+        "name": "RTX 5880 Ada Generation",
+        "performance": "89.62"
+    },
+    {
+        "name": "GeForce RTX 4080 SUPER",
+        "performance": "88.66"
+    },
+    {
+        "name": "GeForce RTX 4070 Ti",
+        "performance": "82.44"
+    },
+    {
+        "name": "GeForce RTX 4070 Ti SUPER",
+        "performance": "82.12"
+    },
+    {
+        "name": "Radeon RX 7900 XTX",
+        "performance": "80.32"
+    },
+    {
+        "name": "GeForce RTX 4070 SUPER",
+        "performance": "78.25"
+    },
+    {
+        "name": "GeForce RTX 3090 Ti",
+        "performance": "77.00"
+    },
+    {
+        "name": "Radeon PRO W7900",
+        "performance": "75.34"
+    },
+    {
+        "name": "Radeon RX 7900 XT",
+        "performance": "74.47"
+    },
+    {
+        "name": "Radeon PRO W7800",
+        "performance": "74.15"
+    },
+    {
+        "name": "Radeon RX 6950 XT",
+        "performance": "73.11"
+    },
+    {
+        "name": "RTX 6000 Ada Generation",
+        "performance": "72.39"
+    },
+    {
+        "name": "GeForce RTX 4090 Mobile",
+        "performance": "72.08"
+    },
+    {
+        "name": "RTX 4500 Ada Generation",
+        "performance": "71.67"
+    },
+    {
+        "name": "GeForce RTX 3080 Ti",
+        "performance": "70.32"
+    },
+    {
+        "name": "GeForce RTX 4070",
+        "performance": "69.90"
+    },
+    {
+        "name": "Radeon RX 6900",
+        "performance": "69.51"
+    },
+    {
+        "name": "Radeon RX 6900 XT",
+        "performance": "69.51"
+    },
+    {
+        "name": "Radeon RX 7900 GRE",
+        "performance": "69.42"
+    },
+    {
+        "name": "GeForce RTX 3090",
+        "performance": "69.34"
+    },
+    {
+        "name": "GeForce RTX 3080 12 GB",
+        "performance": "69.15"
+    },
+    {
+        "name": "RTX 5000 Ada Generation",
+        "performance": "68.94"
+    },
+    {
+        "name": "GeForce RTX 3080",
+        "performance": "65.42"
+    },
+    {
+        "name": "GeForce RTX 4080 Mobile",
+        "performance": "65.28"
+    },
+    {
+        "name": "RTX 4000 Ada Generation",
+        "performance": "65.26"
+    },
+    {
+        "name": "Radeon RX 6800 XT",
+        "performance": "64.89"
+    },
+    {
+        "name": "Radeon RX 7800 XT",
+        "performance": "62.74"
+    },
+    {
+        "name": "RTX 5000 Ada Generation Mobile",
+        "performance": "62.14"
+    },
+    {
+        "name": "GeForce RTX 3070 Ti",
+        "performance": "61.16"
+    },
+    {
+        "name": "RTX 4000 Ada Generation Mobile",
+        "performance": "59.56"
+    },
+    {
+        "name": "GeForce RTX 4060 Ti",
+        "performance": "59.36"
+    },
+    {
+        "name": "GeForce RTX 4060 Ti 16 GB",
+        "performance": "59.23"
+    },
+    {
+        "name": "RTX A5000",
+        "performance": "59.20"
+    },
+    {
+        "name": "Quadro RTX A6000",
+        "performance": "58.46"
+    },
+    {
+        "name": "GeForce RTX 3070",
+        "performance": "58.00"
+    },
+    {
+        "name": "Radeon RX 7900M",
+        "performance": "57.98"
+    },
+    {
+        "name": "RTX A5500",
+        "performance": "57.77"
+    },
+    {
+        "name": "Radeon RX 7700",
+        "performance": "57.59"
+    },
+    {
+        "name": "Radeon RX 7700 XT",
+        "performance": "57.59"
+    },
+    {
+        "name": "Radeon RX 6800",
+        "performance": "57.58"
+    },
+    {
+        "name": "GeForce RTX 2080 Ti",
+        "performance": "56.40"
+    },
+    {
+        "name": "RTX A4500",
+        "performance": "56.27"
+    },
+    {
+        "name": "RTX 4000 SFF Ada Generation",
+        "performance": "54.21"
+    },
+    {
+        "name": "Radeon RX 6750 XT",
+        "performance": "53.89"
+    },
+    {
+        "name": "GeForce RTX 3060 Ti",
+        "performance": "53.16"
+    },
+    {
+        "name": "Radeon Pro W6800",
+        "performance": "51.56"
+    },
+    {
+        "name": "Radeon RX 6700 XT",
+        "performance": "51.53"
+    },
+    {
+        "name": "GeForce RTX 4060",
+        "performance": "51.51"
+    },
+    {
+        "name": "Quadro GV100",
+        "performance": "51.39"
+    },
+    {
+        "name": "GeForce RTX 3080 Ti Mobile",
+        "performance": "51.22"
+    },
+    {
+        "name": "GeForce RTX 2080 Super",
+        "performance": "50.76"
+    },
+    {
+        "name": "GeForce RTX 4070 Mobile",
+        "performance": "50.62"
+    },
+    {
+        "name": "TITAN Xp",
+        "performance": "50.36"
+    },
+    {
+        "name": "RTX A4000",
+        "performance": "50.31"
+    },
+    {
+        "name": "Radeon RX 6700",
+        "performance": "50.09"
+    },
+    {
+        "name": "Radeon RX 6750 GRE 12 GB",
+        "performance": "50.02"
+    },
+    {
+        "name": "Quadro RTX 8000",
+        "performance": "49.98"
+    },
+    {
+        "name": "Radeon PRO W7700",
+        "performance": "49.85"
+    },
+    {
+        "name": "RTX 3500 Ada Generation Mobile",
+        "performance": "49.11"
+    },
+    {
+        "name": "TITAN RTX",
+        "performance": "48.89"
+    },
+    {
+        "name": "GeForce RTX 2080",
+        "performance": "48.72"
+    },
+    {
+        "name": "Quadro RTX 6000",
+        "performance": "48.57"
+    },
+    {
+        "name": "A10G",
+        "performance": "48.54"
+    },
+    {
+        "name": "GeForce GTX 1080 Ti",
+        "performance": "48.12"
+    },
+    {
+        "name": "Radeon RX 6750 GRE 10 GB",
+        "performance": "47.29"
+    },
+    {
+        "name": "Radeon RX 6750 GRE",
+        "performance": "47.29"
+    },
+    {
+        "name": "GeForce RTX 2070 Super",
+        "performance": "47.26"
+    },
+    {
+        "name": "GeForce RTX 3070 Ti Mobile",
+        "performance": "46.63"
+    },
+    {
+        "name": "RTX 2000 Ada Generation",
+        "performance": "45.86"
+    },
+    {
+        "name": "GeForce RTX 4060 Mobile",
+        "performance": "45.80"
+    },
+    {
+        "name": "Radeon Pro W5700X",
+        "performance": "45.60"
+    },
+    {
+        "name": "RTX A4500 Mobile",
+        "performance": "45.39"
+    },
+    {
+        "name": "Radeon RX 6850M XT",
+        "performance": "45.30"
+    },
+    {
+        "name": "RTX A5500 Mobile",
+        "performance": "44.99"
+    },
+    {
+        "name": "Radeon RX 7600 XT",
+        "performance": "44.69"
+    },
+    {
+        "name": "Radeon RX 6650 XT",
+        "performance": "44.68"
+    },
+    {
+        "name": "TITAN V",
+        "performance": "44.40"
+    },
+    {
+        "name": "GeForce RTX 3060",
+        "performance": "44.29"
+    },
+    {
+        "name": "TITAN V CEO Edition",
+        "performance": "44.04"
+    },
+    {
+        "name": "Radeon VII",
+        "performance": "43.24"
+    },
+    {
+        "name": "RTX 3000 Ada Generation Mobile",
+        "performance": "43.20"
+    },
+    {
+        "name": "Radeon RX 5700 XT",
+        "performance": "43.00"
+    },
+    {
+        "name": "Radeon RX 5700 XT 50th Anniversary",
+        "performance": "42.96"
+    },
+    {
+        "name": "GeForce RTX 2060 Super",
+        "performance": "42.88"
+    },
+    {
+        "name": "Radeon RX 6600 XT",
+        "performance": "42.81"
+    },
+    {
+        "name": "Radeon RX 7600",
+        "performance": "42.66"
+    },
+    {
+        "name": "GeForce RTX 3080 Mobile",
+        "performance": "42.63"
+    },
+    {
+        "name": "Quadro GP100",
+        "performance": "42.45"
+    },
+    {
+        "name": "GeForce RTX 2070",
+        "performance": "41.88"
+    },
+    {
+        "name": "GeForce GTX 1070 SLI (móvel)",
+        "performance": "41.71"
+    },
+    {
+        "name": "RTX A5000 Mobile",
+        "performance": "41.47"
+    },
+    {
+        "name": "Quadro RTX 5000",
+        "performance": "41.35"
+    },
+    {
+        "name": "GeForce RTX 2060 12 GB",
+        "performance": "41.25"
+    },
+    {
+        "name": "Radeon RX 6650M XT",
+        "performance": "41.05"
+    },
+    {
+        "name": "Radeon Pro W6600",
+        "performance": "40.45"
+    },
+    {
+        "name": "Radeon Pro Vega II",
+        "performance": "40.43"
+    },
+    {
+        "name": "GeForce GTX 1080",
+        "performance": "40.29"
+    },
+    {
+        "name": "Radeon RX 6800S",
+        "performance": "39.92"
+    },
+    {
+        "name": "Quadro RTX 4000",
+        "performance": "39.88"
+    },
+    {
+        "name": "GeForce RTX 3060 8 GB",
+        "performance": "39.81"
+    },
+    {
+        "name": "RTX A4000 Mobile",
+        "performance": "39.69"
+    },
+    {
+        "name": "Quadro P6000",
+        "performance": "39.68"
+    },
+    {
+        "name": "RTX 2000 Ada Generation Mobile",
+        "performance": "39.67"
+    },
+    {
+        "name": "GeForce RTX 2080 (móvel)",
+        "performance": "39.51"
+    },
+    {
+        "name": "GeForce GTX 980 SLI (móvel)",
+        "performance": "39.43"
+    },
+    {
+        "name": "Radeon RX 6600",
+        "performance": "39.25"
+    },
+    {
+        "name": "GeForce RTX 2080 Super Mobile",
+        "performance": "39.11"
+    },
+    {
+        "name": "Radeon RX 6650M",
+        "performance": "39.11"
+    },
+    {
+        "name": "Radeon Pro W5700",
+        "performance": "39.04"
+    },
+    {
+        "name": "Radeon RX 7700S",
+        "performance": "38.90"
+    },
+    {
+        "name": "Radeon RX 6700S",
+        "performance": "38.77"
+    },
+    {
+        "name": "GeForce GTX 1070 SLI",
+        "performance": "38.35"
+    },
+    {
+        "name": "GeForce GTX 1070 Ti",
+        "performance": "38.10"
+    },
+    {
+        "name": "Radeon RX 7600S",
+        "performance": "37.76"
+    },
+    {
+        "name": "GeForce RTX 4050 Mobile",
+        "performance": "37.54"
+    },
+    {
+        "name": "GeForce RTX 4050",
+        "performance": "37.54"
+    },
+    {
+        "name": "Radeon RX 5700",
+        "performance": "37.49"
+    },
+    {
+        "name": "L40S",
+        "performance": "37.32"
+    },
+    {
+        "name": "GeForce GTX 1080 SLI (móvel)",
+        "performance": "37.31"
+    },
+    {
+        "name": "GeForce RTX 3070 Mobile",
+        "performance": "37.24"
+    },
+    {
+        "name": "Radeon RX Vega 64",
+        "performance": "37.10"
+    },
+    {
+        "name": "Radeon PRO W7500",
+        "performance": "36.88"
+    },
+    {
+        "name": "GeForce RTX 2060",
+        "performance": "36.68"
+    },
+    {
+        "name": "GeForce RTX 2070 Super Mobile",
+        "performance": "36.58"
+    },
+    {
+        "name": "Radeon Pro Vega II Duo",
+        "performance": "36.34"
+    },
+    {
+        "name": "Radeon PRO W7600",
+        "performance": "36.16"
+    },
+    {
+        "name": "GeForce RTX 2080 Max-Q",
+        "performance": "36.02"
+    },
+    {
+        "name": "GeForce GTX 1080 (móvel)",
+        "performance": "35.93"
+    },
+    {
+        "name": "GeForce RTX 2080 Super Max-Q",
+        "performance": "35.89"
+    },
+    {
+        "name": "Quadro RTX 5000 (móvel)",
+        "performance": "35.87"
+    },
+    {
+        "name": "GeForce GTX 980 Ti",
+        "performance": "35.80"
+    },
+    {
+        "name": "Radeon RX 6600M",
+        "performance": "35.72"
+    },
+    {
+        "name": "GeForce RTX 2070 Super Max-Q",
+        "performance": "35.70"
+    },
+    {
+        "name": "RTX A2000",
+        "performance": "35.66"
+    },
+    {
+        "name": "Radeon Pro Vega 64X",
+        "performance": "35.54"
+    },
+    {
+        "name": "RTX A2000 12 GB",
+        "performance": "35.53"
+    },
+    {
+        "name": "Radeon RX 6600S",
+        "performance": "35.46"
+    },
+    {
+        "name": "Radeon RX 5600 XT",
+        "performance": "35.36"
+    },
+    {
+        "name": "Radeon Pro WX 8200",
+        "performance": "35.21"
+    },
+    {
+        "name": "GeForce GTX 1070",
+        "performance": "35.00"
+    },
+    {
+        "name": "Radeon RX 6700M",
+        "performance": "34.97"
+    },
+    {
+        "name": "Quadro RTX 5000 Max-Q",
+        "performance": "34.93"
+    },
+    {
+        "name": "GeForce RTX 2070 (móvel)",
+        "performance": "34.79"
+    },
+    {
+        "name": "Quadro RTX 4000 (móvel)",
+        "performance": "34.58"
+    },
+    {
+        "name": "Radeon RX 6800M",
+        "performance": "34.40"
+    },
+    {
+        "name": "Radeon RX Vega 56",
+        "performance": "34.30"
+    },
+    {
+        "name": "Radeon Vega Frontier Edition",
+        "performance": "34.29"
+    },
+    {
+        "name": "Radeon Pro W6600X",
+        "performance": "34.00"
+    },
+    {
+        "name": "Titan X Pascal",
+        "performance": "33.77"
+    },
+    {
+        "name": "Arc A770",
+        "performance": "33.69"
+    },
+    {
+        "name": "Radeon RX 7600M XT",
+        "performance": "33.65"
+    },
+    {
+        "name": "GeForce GTX TITAN X",
+        "performance": "33.55"
+    },
+    {
+        "name": "Radeon Pro Vega 64",
+        "performance": "33.49"
+    },
+    {
+        "name": "GeForce GTX 1660 Ti",
+        "performance": "33.48"
+    },
+    {
+        "name": "Radeon Pro VII",
+        "performance": "33.18"
+    },
+    {
+        "name": "GeForce GTX 1660 Super",
+        "performance": "33.07"
+    },
+    {
+        "name": "Tesla T10",
+        "performance": "32.79"
+    },
+    {
+        "name": "Radeon Pro 5700 XT",
+        "performance": "32.70"
+    },
+    {
+        "name": "GeForce RTX 3050 8 GB",
+        "performance": "32.70"
+    },
+    {
+        "name": "GeForce RTX 3060 Mobile",
+        "performance": "32.54"
+    },
+    {
+        "name": "Quadro P5000",
+        "performance": "32.51"
+    },
+    {
+        "name": "Quadro P5200 Max-Q",
+        "performance": "32.48"
+    },
+    {
+        "name": "RTX A3000 Mobile",
+        "performance": "32.46"
+    },
+    {
+        "name": "Quadro RTX 4000 Max-Q",
+        "performance": "32.37"
+    },
+    {
+        "name": "Radeon PRO WX 9100",
+        "performance": "32.33"
+    },
+    {
+        "name": "Radeon Pro Vega 56",
+        "performance": "32.02"
+    },
+    {
+        "name": "Radeon Pro V520",
+        "performance": "31.78"
+    },
+    {
+        "name": "Quadro P5200",
+        "performance": "31.73"
+    },
+    {
+        "name": "Tesla P40",
+        "performance": "31.60"
+    },
+    {
+        "name": "Radeon RX 5600 OEM",
+        "performance": "31.12"
+    },
+    {
+        "name": "GeForce RTX 3050 OEM",
+        "performance": "31.04"
+    },
+    {
+        "name": "GeForce RTX 2060 (móvel)",
+        "performance": "30.90"
+    },
+    {
+        "name": "Arc A750",
+        "performance": "30.88"
+    },
+    {
+        "name": "Quadro M6000 24 GB",
+        "performance": "30.80"
+    },
+    {
+        "name": "Radeon Pro 5700",
+        "performance": "30.71"
+    },
+    {
+        "name": "Quadro M6000",
+        "performance": "30.45"
+    },
+    {
+        "name": "GeForce RTX 2070 Max-Q",
+        "performance": "30.31"
+    },
+    {
+        "name": "GeForce GTX 1660",
+        "performance": "30.28"
+    },
+    {
+        "name": "Quadro P4000",
+        "performance": "30.15"
+    },
+    {
+        "name": "GeForce GTX 1660 Ti (móvel)",
+        "performance": "30.13"
+    },
+    {
+        "name": "Arc A580",
+        "performance": "30.10"
+    },
+    {
+        "name": "Quadro P5000 (móvel)",
+        "performance": "29.97"
+    },
+    {
+        "name": "Arc A770M",
+        "performance": "29.86"
+    },
+    {
+        "name": "L4",
+        "performance": "29.86"
+    },
+    {
+        "name": "RTX A1000",
+        "performance": "29.78"
+    },
+    {
+        "name": "Quadro P4200 Max-Q",
+        "performance": "29.67"
+    },
+    {
+        "name": "RTX A1000 Embedded",
+        "performance": "29.47"
+    },
+    {
+        "name": "Radeon Pro Vega 48",
+        "performance": "29.29"
+    },
+    {
+        "name": "GeForce GTX 980",
+        "performance": "28.77"
+    },
+    {
+        "name": "GeForce GTX 1070 (móvel)",
+        "performance": "28.52"
+    },
+    {
+        "name": "Radeon Pro SSG",
+        "performance": "28.44"
+    },
+    {
+        "name": "Fiji",
+        "performance": "28.33"
+    },
+    {
+        "name": "RTX A4500 Embedded",
+        "performance": "28.30"
+    },
+    {
+        "name": "Tesla T4",
+        "performance": "27.85"
+    },
+    {
+        "name": "GeForce RTX 3050 6 GB",
+        "performance": "27.55"
+    },
+    {
+        "name": "Arc A730M",
+        "performance": "27.19"
+    },
+    {
+        "name": "Tesla M40",
+        "performance": "27.13"
+    },
+    {
+        "name": "Tesla M40 24 GB",
+        "performance": "27.01"
+    },
+    {
+        "name": "GeForce GTX 1060 6 GB",
+        "performance": "26.58"
+    },
+    {
+        "name": "GeForce GTX 1080 Max-Q",
+        "performance": "26.46"
+    },
+    {
+        "name": "GeForce GTX 1650 SUPER",
+        "performance": "26.34"
+    },
+    {
+        "name": "GeForce RTX 3050 Ti Mobile",
+        "performance": "26.30"
+    },
+    {
+        "name": "Quadro RTX 3000 (móvel)",
+        "performance": "26.23"
+    },
+    {
+        "name": "RTX A2000 Mobile",
+        "performance": "25.77"
+    },
+    {
+        "name": "GeForce RTX 3050 6GB Mobile",
+        "performance": "25.57"
+    },
+    {
+        "name": "GeForce RTX 2060 Max-Q",
+        "performance": "25.29"
+    },
+    {
+        "name": "Quadro P4200",
+        "performance": "25.14"
+    },
+    {
+        "name": "GeForce GTX 970",
+        "performance": "24.99"
+    },
+    {
+        "name": "GeForce RTX 3050 4GB Mobile",
+        "performance": "24.93"
+    },
+    {
+        "name": "Radeon R9 FURY X",
+        "performance": "24.87"
+    },
+    {
+        "name": "Radeon R9 Fury",
+        "performance": "24.87"
+    },
+    {
+        "name": "GeForce GTX 980M SLI",
+        "performance": "24.86"
+    },
+    {
+        "name": "GeForce GTX 1060 3 GB",
+        "performance": "24.86"
+    },
+    {
+        "name": "Radeon RX 6500 XT",
+        "performance": "24.80"
+    },
+    {
+        "name": "Radeon Pro W6600M",
+        "performance": "24.68"
+    },
+    {
+        "name": "GeForce GTX 780 Ti",
+        "performance": "24.67"
+    },
+    {
+        "name": "RTX A1000 Mobile",
+        "performance": "24.63"
+    },
+    {
+        "name": "Radeon RX 6550M",
+        "performance": "24.53"
+    },
+    {
+        "name": "Radeon R9 390X",
+        "performance": "24.41"
+    },
+    {
+        "name": "Quadro M5000",
+        "performance": "24.38"
+    },
+    {
+        "name": "Radeon RX 590",
+        "performance": "24.34"
+    },
+    {
+        "name": "Quadro P3200 Max-Q",
+        "performance": "24.18"
+    },
+    {
+        "name": "Quadro P2200",
+        "performance": "24.16"
+    },
+    {
+        "name": "GeForce GTX 970M SLI",
+        "performance": "24.14"
+    },
+    {
+        "name": "Arc Pro A60",
+        "performance": "24.11"
+    },
+    {
+        "name": "Radeon Pro 5600M",
+        "performance": "23.93"
+    },
+    {
+        "name": "Arc A550M",
+        "performance": "23.87"
+    },
+    {
+        "name": "Radeon RX 5500 XT",
+        "performance": "23.71"
+    },
+    {
+        "name": "GeForce RTX 3050 Mobile",
+        "performance": "23.65"
+    },
+    {
+        "name": "Radeon Pro W5500",
+        "performance": "23.64"
+    },
+    {
+        "name": "GeForce GTX 1060 5 GB",
+        "performance": "23.48"
+    },
+    {
+        "name": "GeForce GTX TITAN BLACK",
+        "performance": "23.26"
+    },
+    {
+        "name": "GeForce GTX TITAN Z",
+        "performance": "23.18"
+    },
+    {
+        "name": "Radeon R9 390",
+        "performance": "23.10"
+    },
+    {
+        "name": "Tesla P4",
+        "performance": "23.02"
+    },
+    {
+        "name": "Radeon RX 580",
+        "performance": "22.96"
+    },
+    {
+        "name": "Quadro P3200",
+        "performance": "22.94"
+    },
+    {
+        "name": "Quadro P4000 Max-Q",
+        "performance": "22.85"
+    },
+    {
+        "name": "GeForce GTX 1660 Ti Max-Q",
+        "performance": "22.85"
+    },
+    {
+        "name": "Radeon RX 5500",
+        "performance": "22.79"
+    },
+    {
+        "name": "Radeon RX 5600M",
+        "performance": "22.67"
+    },
+    {
+        "name": "Radeon RX 480",
+        "performance": "22.36"
+    },
+    {
+        "name": "Radeon R9 295X2",
+        "performance": "22.34"
+    },
+    {
+        "name": "Radeon R9 Nano",
+        "performance": "22.00"
+    },
+    {
+        "name": "Radeon Pro 5500 XT",
+        "performance": "21.71"
+    },
+    {
+        "name": "GeForce GTX 880M SLI",
+        "performance": "21.67"
+    },
+    {
+        "name": "GeForce GTX 980 (móvel)",
+        "performance": "21.57"
+    },
+    {
+        "name": "Quadro RTX 3000 Max-Q",
+        "performance": "21.40"
+    },
+    {
+        "name": "Hawaii",
+        "performance": "21.30"
+    },
+    {
+        "name": "GeForce GTX TITAN",
+        "performance": "21.23"
+    },
+    {
+        "name": "Radeon Pro Duo",
+        "performance": "21.17"
+    },
+    {
+        "name": "CMP 30HX",
+        "performance": "21.09"
+    },
+    {
+        "name": "Radeon RX 470",
+        "performance": "20.99"
+    },
+    {
+        "name": "Radeon R9 290",
+        "performance": "20.98"
+    },
+    {
+        "name": "Quadro K6000",
+        "performance": "20.91"
+    },
+    {
+        "name": "Radeon Pro W6400",
+        "performance": "20.83"
+    },
+    {
+        "name": "GeForce GTX 780",
+        "performance": "20.75"
+    },
+    {
+        "name": "Quadro T2000 (móvel)",
+        "performance": "20.70"
+    },
+    {
+        "name": "Quadro M5500",
+        "performance": "20.52"
+    },
+    {
+        "name": "Radeon 890M",
+        "performance": "20.48"
+    },
+    {
+        "name": "Quadro P4000 (móvel)",
+        "performance": "20.43"
+    },
+    {
+        "name": "GeForce GTX 1650",
+        "performance": "20.42"
+    },
+    {
+        "name": "Radeon Pro WX 7100",
+        "performance": "20.40"
+    },
+    {
+        "name": "T1200 Mobile",
+        "performance": "20.31"
+    },
+    {
+        "name": "Radeon RX 580X",
+        "performance": "20.22"
+    },
+    {
+        "name": "GeForce GTX 1650 Ti Mobile",
+        "performance": "20.21"
+    },
+    {
+        "name": "Radeon RX 6500M",
+        "performance": "20.19"
+    },
+    {
+        "name": "Radeon Pro 580",
+        "performance": "20.10"
+    },
+    {
+        "name": "Radeon RX 6500",
+        "performance": "20.02"
+    },
+    {
+        "name": "Radeon RX 580 (móvel)",
+        "performance": "20.02"
+    },
+    {
+        "name": "Radeon RX 580 2048SP",
+        "performance": "19.96"
+    },
+    {
+        "name": "T1000",
+        "performance": "19.80"
+    },
+    {
+        "name": "GeForce GTX 1060 (móvel)",
+        "performance": "19.72"
+    },
+    {
+        "name": "FirePro W9100",
+        "performance": "19.65"
+    },
+    {
+        "name": "T1000 8 GB",
+        "performance": "19.64"
+    },
+    {
+        "name": "Radeon RX 6400",
+        "performance": "19.64"
+    },
+    {
+        "name": "Radeon 880M",
+        "performance": "19.61"
+    },
+    {
+        "name": "Radeon RX 5300",
+        "performance": "19.60"
+    },
+    {
+        "name": "Ellesmere",
+        "performance": "19.59"
+    },
+    {
+        "name": "Tesla M60",
+        "performance": "19.58"
+    },
+    {
+        "name": "Radeon Pro 580X",
+        "performance": "19.55"
+    },
+    {
+        "name": "GeForce GTX 780M SLI",
+        "performance": "19.53"
+    },
+    {
+        "name": "Quadro T1200 Mobile",
+        "performance": "19.31"
+    },
+    {
+        "name": "Radeon R9 290X",
+        "performance": "19.25"
+    },
+    {
+        "name": "GeForce GTX 980M",
+        "performance": "19.07"
+    },
+    {
+        "name": "Radeon Pro W5500X",
+        "performance": "19.05"
+    },
+    {
+        "name": "FirePro W8100",
+        "performance": "19.01"
+    },
+    {
+        "name": "Radeon R9 M290X Crossfire",
+        "performance": "19.01"
+    },
+    {
+        "name": "Quadro P2000",
+        "performance": "18.84"
+    },
+    {
+        "name": "GeForce RTX 2050 Mobile",
+        "performance": "18.62"
+    },
+    {
+        "name": "Radeon HD 8970M Crossfire",
+        "performance": "18.61"
+    },
+    {
+        "name": "Arc 8-Core iGPU",
+        "performance": "18.60"
+    },
+    {
+        "name": "Radeon Pro 5300",
+        "performance": "18.52"
+    },
+    {
+        "name": "GeForce GTX 1650 (móvel)",
+        "performance": "18.45"
+    },
+    {
+        "name": "Quadro T600 Mobile",
+        "performance": "18.35"
+    },
+    {
+        "name": "Radeon 780M",
+        "performance": "18.29"
+    },
+    {
+        "name": "Quadro M5000M",
+        "performance": "18.20"
+    },
+    {
+        "name": "Radeon RX 470 (móvel)",
+        "performance": "18.18"
+    },
+    {
+        "name": "Radeon RX 570",
+        "performance": "18.06"
+    },
+    {
+        "name": "GeForce GTX 1070 Max-Q",
+        "performance": "18.02"
+    },
+    {
+        "name": "Quadro T2000 Max-Q",
+        "performance": "17.93"
+    },
+    {
+        "name": "GeForce RTX 3050 4 GB",
+        "performance": "17.58"
+    },
+    {
+        "name": "CMP 40HX",
+        "performance": "17.57"
+    },
+    {
+        "name": "Radeon Pro 5500M",
+        "performance": "17.55"
+    },
+    {
+        "name": "Arc 8-Cores iGPU",
+        "performance": "17.53"
+    },
+    {
+        "name": "RTX A500 Mobile",
+        "performance": "17.48"
+    },
+    {
+        "name": "RTX A500",
+        "performance": "17.48"
+    },
+    {
+        "name": "Quadro T1000 Max-Q",
+        "performance": "17.38"
+    },
+    {
+        "name": "Radeon R9 285",
+        "performance": "17.32"
+    },
+    {
+        "name": "Quadro M4000",
+        "performance": "17.31"
+    },
+    {
+        "name": "GeForce GTX 965M SLI",
+        "performance": "17.21"
+    },
+    {
+        "name": "Arc 7-Cores iGPU",
+        "performance": "17.16"
+    },
+    {
+        "name": "Radeon RX Vega M GH",
+        "performance": "17.07"
+    },
+    {
+        "name": "Radeon RX Vega M",
+        "performance": "17.07"
+    },
+    {
+        "name": "Quadro T1000 (móvel)",
+        "performance": "16.95"
+    },
+    {
+        "name": "Arc 7-Core iGPU",
+        "performance": "16.95"
+    },
+    {
+        "name": "Quadro P3000 (móvel)",
+        "performance": "16.90"
+    },
+    {
+        "name": "T600",
+        "performance": "16.77"
+    },
+    {
+        "name": "P106-100",
+        "performance": "16.76"
+    },
+    {
+        "name": "Quadro T1000",
+        "performance": "16.75"
+    },
+    {
+        "name": "GeForce GTX 1650 Ti Max-Q",
+        "performance": "16.62"
+    },
+    {
+        "name": "Arc A530M",
+        "performance": "16.60"
+    },
+    {
+        "name": "GeForce GTX 680M SLI",
+        "performance": "16.52"
+    },
+    {
+        "name": "Radeon Pro 570",
+        "performance": "16.43"
+    },
+    {
+        "name": "GeForce GTX 1050 Ti",
+        "performance": "16.37"
+    },
+    {
+        "name": "Radeon 660M",
+        "performance": "16.29"
+    },
+    {
+        "name": "Tesla M6",
+        "performance": "16.29"
+    },
+    {
+        "name": "Quadro P2000 (móvel)",
+        "performance": "16.22"
+    },
+    {
+        "name": "Arc A380",
+        "performance": "16.11"
+    },
+    {
+        "name": "Radeon R9 380X",
+        "performance": "16.04"
+    },
+    {
+        "name": "GeForce GTX 1650 Max-Q",
+        "performance": "16.01"
+    },
+    {
+        "name": "Radeon HD 7970M Crossfire",
+        "performance": "16.01"
+    },
+    {
+        "name": "Radeon 680M",
+        "performance": "15.99"
+    },
+    {
+        "name": "FirePro W9000",
+        "performance": "15.91"
+    },
+    {
+        "name": "Radeon R9 380",
+        "performance": "15.91"
+    },
+    {
+        "name": "Quadro M4000M",
+        "performance": "15.82"
+    },
+    {
+        "name": "Quadro K5200",
+        "performance": "15.76"
+    },
+    {
+        "name": "GeForce GTX 960",
+        "performance": "15.75"
+    },
+    {
+        "name": "GeForce RTX 3050 A Mobile",
+        "performance": "15.65"
+    },
+    {
+        "name": "GeForce MX570 A",
+        "performance": "15.53"
+    },
+    {
+        "name": "Radeon Pro 5300M",
+        "performance": "15.45"
+    },
+    {
+        "name": "GeForce GTX 770",
+        "performance": "15.35"
+    },
+    {
+        "name": "GeForce GTX 1060 Max-Q 6 GB",
+        "performance": "15.27"
+    },
+    {
+        "name": "Arc Pro A30M",
+        "performance": "15.20"
+    },
+    {
+        "name": "Tesla K80",
+        "performance": "15.17"
+    },
+    {
+        "name": "Radeon R9 280X",
+        "performance": "15.13"
+    },
+    {
+        "name": "GeForce GTX 1050 Ti (móvel)",
+        "performance": "15.08"
+    },
+    {
+        "name": "FirePro W7100",
+        "performance": "15.02"
+    },
+    {
+        "name": "Radeon 760M",
+        "performance": "14.98"
+    },
+    {
+        "name": "GeForce MX570",
+        "performance": "14.88"
+    },
+    {
+        "name": "GeForce GTX 970M",
+        "performance": "14.83"
+    },
+    {
+        "name": "Quadro M3000M",
+        "performance": "14.50"
+    },
+    {
+        "name": "Radeon HD 7990",
+        "performance": "14.43"
+    },
+    {
+        "name": "Radeon Pro WX 5100",
+        "performance": "14.43"
+    },
+    {
+        "name": "GeForce GTX 680",
+        "performance": "14.42"
+    },
+    {
+        "name": "GeForce GTX 690",
+        "performance": "14.42"
+    },
+    {
+        "name": "Radeon R9 280",
+        "performance": "14.40"
+    },
+    {
+        "name": "Apple M1 8-Core GPU",
+        "performance": "14.40"
+    },
+    {
+        "name": "GeForce GTX 770M SLI",
+        "performance": "14.40"
+    },
+    {
+        "name": "Radeon RX 5500M",
+        "performance": "14.36"
+    },
+    {
+        "name": "UHD Graphics 730 (Rocket Lake)",
+        "performance": "14.36"
+    },
+    {
+        "name": "Tonga",
+        "performance": "14.36"
+    },
+    {
+        "name": "Radeon RX Vega M GL / 870",
+        "performance": "14.31"
+    },
+    {
+        "name": "Arc A310",
+        "performance": "14.25"
+    },
+    {
+        "name": "Radeon PRO W6300",
+        "performance": "14.21"
+    },
+    {
+        "name": "Arc A350M",
+        "performance": "14.18"
+    },
+    {
+        "name": "Radeon E8950",
+        "performance": "14.17"
+    },
+    {
+        "name": "GeForce GTX 760 Ti OEM",
+        "performance": "14.07"
+    },
+    {
+        "name": "Radeon RX 6300",
+        "performance": "14.05"
+    },
+    {
+        "name": "FirePro D700",
+        "performance": "13.89"
+    },
+    {
+        "name": "GeForce GTX 1050 Ti Max-Q",
+        "performance": "13.87"
+    },
+    {
+        "name": "GeForce GTX 950",
+        "performance": "13.83"
+    },
+    {
+        "name": "GeForce GTX 670",
+        "performance": "13.81"
+    },
+    {
+        "name": "Radeon Pro Vega 20",
+        "performance": "13.74"
+    },
+    {
+        "name": "Quadro P2000 Max-Q",
+        "performance": "13.70"
+    },
+    {
+        "name": "Radeon HD 7970",
+        "performance": "13.61"
+    },
+    {
+        "name": "GRID M60-2Q",
+        "performance": "13.49"
+    },
+    {
+        "name": "Radeon R9 M395X",
+        "performance": "13.47"
+    },
+    {
+        "name": "Radeon R9 M295X Mac Edition",
+        "performance": "13.39"
+    },
+    {
+        "name": "Radeon R9 M295X",
+        "performance": "13.35"
+    },
+    {
+        "name": "Arc A370M",
+        "performance": "13.26"
+    },
+    {
+        "name": "GeForce GTX 1050 3 GB",
+        "performance": "13.25"
+    },
+    {
+        "name": "FirePro S9000",
+        "performance": "13.12"
+    },
+    {
+        "name": "GeForce GTX 1050",
+        "performance": "13.06"
+    },
+    {
+        "name": "Radeon Instinct MI25",
+        "performance": "12.91"
+    },
+    {
+        "name": "GeForce GTX 1630",
+        "performance": "12.90"
+    },
+    {
+        "name": "GeForce GTX 1050 3GB Mobile",
+        "performance": "12.83"
+    },
+    {
+        "name": "Radeon R9 M395",
+        "performance": "12.73"
+    },
+    {
+        "name": "FirePro S9050",
+        "performance": "12.71"
+    },
+    {
+        "name": "Radeon R9 270X",
+        "performance": "12.62"
+    },
+    {
+        "name": "GeForce GTX 860M SLI",
+        "performance": "12.58"
+    },
+    {
+        "name": "T550 Mobile",
+        "performance": "12.52"
+    },
+    {
+        "name": "Radeon Pro Vega 16",
+        "performance": "12.47"
+    },
+    {
+        "name": "GeForce GTX 760",
+        "performance": "12.43"
+    },
+    {
+        "name": "FirePro S10000",
+        "performance": "12.36"
+    },
+    {
+        "name": "Radeon HD 7950",
+        "performance": "12.35"
+    },
+    {
+        "name": "Radeon R9 370",
+        "performance": "12.24"
+    },
+    {
+        "name": "Radeon Sky 500",
+        "performance": "12.21"
+    },
+    {
+        "name": "Radeon Pro WX Vega M GL",
+        "performance": "12.04"
+    },
+    {
+        "name": "Radeon HD 7870",
+        "performance": "12.01"
+    },
+    {
+        "name": "GeForce GTX 580",
+        "performance": "11.89"
+    },
+    {
+        "name": "GeForce MX550",
+        "performance": "11.82"
+    },
+    {
+        "name": "FirePro S7000",
+        "performance": "11.73"
+    },
+    {
+        "name": "Radeon R7 370",
+        "performance": "11.69"
+    },
+    {
+        "name": "Tesla K40c",
+        "performance": "11.65"
+    },
+    {
+        "name": "GeForce GTX 1050 (móvel)",
+        "performance": "11.65"
+    },
+    {
+        "name": "Radeon HD 7870 XT",
+        "performance": "11.59"
+    },
+    {
+        "name": "Quadro P1000",
+        "performance": "11.56"
+    },
+    {
+        "name": "Tesla K20m",
+        "performance": "11.49"
+    },
+    {
+        "name": "GeForce GTX 660 Ti",
+        "performance": "11.48"
+    },
+    {
+        "name": "Radeon RX 560 (móvel)",
+        "performance": "11.29"
+    },
+    {
+        "name": "Quadro K4200",
+        "performance": "11.21"
+    },
+    {
+        "name": "Radeon RX 5300M",
+        "performance": "11.17"
+    },
+    {
+        "name": "Radeon R9 270",
+        "performance": "11.16"
+    },
+    {
+        "name": "FirePro W7000",
+        "performance": "11.12"
+    },
+    {
+        "name": "Radeon RX 560X (móvel)",
+        "performance": "11.06"
+    },
+    {
+        "name": "Quadro M2200",
+        "performance": "11.03"
+    },
+    {
+        "name": "Iris Xe Graphics G7",
+        "performance": "10.93"
+    },
+    {
+        "name": "FirePro W8000",
+        "performance": "10.75"
+    },
+    {
+        "name": "FirePro D500",
+        "performance": "10.75"
+    },
+    {
+        "name": "GeForce GTX 765M SLI",
+        "performance": "10.74"
+    },
+    {
+        "name": "GeForce GTX 680MX",
+        "performance": "10.73"
+    },
+    {
+        "name": "GeForce GTX 780 Rev. 2",
+        "performance": "10.65"
+    },
+    {
+        "name": "GeForce GTX 480",
+        "performance": "10.64"
+    },
+    {
+        "name": "Radeon RX 460",
+        "performance": "10.63"
+    },
+    {
+        "name": "GeForce GTX 1050 Max-Q",
+        "performance": "10.55"
+    },
+    {
+        "name": "Radeon R7 265",
+        "performance": "10.38"
+    },
+    {
+        "name": "GeForce GTX 660",
+        "performance": "10.37"
+    },
+    {
+        "name": "Quadro M2000",
+        "performance": "10.36"
+    },
+    {
+        "name": "Quadro K5000",
+        "performance": "10.35"
+    },
+    {
+        "name": "GeForce GTX 580M SLI",
+        "performance": "10.28"
+    },
+    {
+        "name": "Radeon RX 460 (móvel)",
+        "performance": "10.22"
+    },
+    {
+        "name": "Radeon RX 7600M",
+        "performance": "10.21"
+    },
+    {
+        "name": "GeForce GTX 570",
+        "performance": "10.17"
+    },
+    {
+        "name": "GeForce GTX 750 Ti",
+        "performance": "10.11"
+    },
+    {
+        "name": "Radeon HD 6990M Crossfire",
+        "performance": "10.10"
+    },
+    {
+        "name": "FirePro D300",
+        "performance": "10.09"
+    },
+    {
+        "name": "GRID M60-8Q",
+        "performance": "10.07"
+    },
+    {
+        "name": "Radeon HD 8970M",
+        "performance": "10.05"
+    },
+    {
+        "name": "Tiger Lake-U Xe Graphics G7",
+        "performance": "10.04"
+    },
+    {
+        "name": "Radeon HD 7850",
+        "performance": "10.01"
+    },
+    {
+        "name": "GeForce GTX 780M",
+        "performance": "9.99"
+    },
+    {
+        "name": "GeForce GTX 670MX SLI",
+        "performance": "9.91"
+    },
+    {
+        "name": "GeForce GTX 880M",
+        "performance": "9.90"
+    },
+    {
+        "name": "Radeon R9 M390",
+        "performance": "9.89"
+    },
+    {
+        "name": "GeForce GTX 965M",
+        "performance": "9.83"
+    },
+    {
+        "name": "Radeon RX Vega M GL",
+        "performance": "9.76"
+    },
+    {
+        "name": "Graphics 4-Cores iGPU (Arc)",
+        "performance": "9.75"
+    },
+    {
+        "name": "T400 4 GB",
+        "performance": "9.72"
+    },
+    {
+        "name": "GeForce MX450",
+        "performance": "9.67"
+    },
+    {
+        "name": "Tesla K8",
+        "performance": "9.64"
+    },
+    {
+        "name": "P104-100",
+        "performance": "9.58"
+    },
+    {
+        "name": "GRID M60-1Q",
+        "performance": "9.58"
+    },
+    {
+        "name": "Radeon Pro 560X",
+        "performance": "9.53"
+    },
+    {
+        "name": "Tesla M2090",
+        "performance": "9.50"
+    },
+    {
+        "name": "Radeon R9 M485X",
+        "performance": "9.49"
+    },
+    {
+        "name": "Radeon RX 560",
+        "performance": "9.45"
+    },
+    {
+        "name": "Iris Xe Graphics G7 96EUs",
+        "performance": "9.45"
+    },
+    {
+        "name": "Quadro P620",
+        "performance": "9.44"
+    },
+    {
+        "name": "Radeon Pro WX 4100",
+        "performance": "9.44"
+    },
+    {
+        "name": "GeForce GTX 775M",
+        "performance": "9.42"
+    },
+    {
+        "name": "T400",
+        "performance": "9.41"
+    },
+    {
+        "name": "Radeon R9 M390X",
+        "performance": "9.33"
+    },
+    {
+        "name": "GRID M6-8Q",
+        "performance": "9.25"
+    },
+    {
+        "name": "RTX A400",
+        "performance": "9.24"
+    },
+    {
+        "name": "GeForce GTX 485M SLI",
+        "performance": "9.24"
+    },
+    {
+        "name": "Quadro K2200",
+        "performance": "9.21"
+    },
+    {
+        "name": "Radeon RX Vega 8 (Ryzen 4000/5000)",
+        "performance": "9.16"
+    },
+    {
+        "name": "Radeon HD 7970M",
+        "performance": "9.15"
+    },
+    {
+        "name": "GRID K520",
+        "performance": "9.12"
+    },
+    {
+        "name": "Radeon HD 6970M Crossfire",
+        "performance": "9.09"
+    },
+    {
+        "name": "Quadro 7000",
+        "performance": "9.09"
+    },
+    {
+        "name": "Radeon Pro 560",
+        "performance": "9.01"
+    },
+    {
+        "name": "Quadro K2200M",
+        "performance": "8.99"
+    },
+    {
+        "name": "Quadro M2000M",
+        "performance": "8.97"
+    },
+    {
+        "name": "Radeon Pro 460",
+        "performance": "8.95"
+    },
+    {
+        "name": "GeForce GTX 870M",
+        "performance": "8.94"
+    },
+    {
+        "name": "GeForce GTX 675M SLI",
+        "performance": "8.79"
+    },
+    {
+        "name": "Quadro T500 Mobile",
+        "performance": "8.79"
+    },
+    {
+        "name": "GeForce GTX 960M",
+        "performance": "8.77"
+    },
+    {
+        "name": "Tesla C2075",
+        "performance": "8.72"
+    },
+    {
+        "name": "GeForce GTX 960A",
+        "performance": "8.70"
+    },
+    {
+        "name": "GeForce GTX 750",
+        "performance": "8.68"
+    },
+    {
+        "name": "GeForce GTX 650 Ti Boost",
+        "performance": "8.67"
+    },
+    {
+        "name": "Tesla K20c",
+        "performance": "8.66"
+    },
+    {
+        "name": "GeForce GTX 590",
+        "performance": "8.66"
+    },
+    {
+        "name": "GeForce GT 755M SLI",
+        "performance": "8.64"
+    },
+    {
+        "name": "Bonaire",
+        "performance": "8.59"
+    },
+    {
+        "name": "Quadro P600",
+        "performance": "8.55"
+    },
+    {
+        "name": "Tesla K40m",
+        "performance": "8.51"
+    },
+    {
+        "name": "Radeon R9 M290X",
+        "performance": "8.46"
+    },
+    {
+        "name": "Radeon R9 M470X",
+        "performance": "8.41"
+    },
+    {
+        "name": "Radeon Pro 555X",
+        "performance": "8.39"
+    },
+    {
+        "name": "Quadro M1200",
+        "performance": "8.38"
+    },
+    {
+        "name": "GeForce GTX 680M",
+        "performance": "8.37"
+    },
+    {
+        "name": "FirePro S7150",
+        "performance": "8.31"
+    },
+    {
+        "name": "Radeon RX 560X",
+        "performance": "8.29"
+    },
+    {
+        "name": "Radeon R7 260X",
+        "performance": "8.27"
+    },
+    {
+        "name": "Radeon 740M",
+        "performance": "8.25"
+    },
+    {
+        "name": "Tesla C2050",
+        "performance": "8.23"
+    },
+    {
+        "name": "Tesla M10",
+        "performance": "8.22"
+    },
+    {
+        "name": "GeForce GTX 560 Ti 448",
+        "performance": "8.21"
+    },
+    {
+        "name": "FirePro W7170M",
+        "performance": "8.19"
+    },
+    {
+        "name": "Cypress",
+        "performance": "8.18"
+    },
+    {
+        "name": "Quadro K5100M",
+        "performance": "8.15"
+    },
+    {
+        "name": "Radeon Pro 555",
+        "performance": "8.14"
+    },
+    {
+        "name": "Baffin",
+        "performance": "8.13"
+    },
+    {
+        "name": "Tahiti",
+        "performance": "8.10"
+    },
+    {
+        "name": "Radeon Pro 455",
+        "performance": "8.07"
+    },
+    {
+        "name": "GeForce GTX 470",
+        "performance": "8.05"
+    },
+    {
+        "name": "Radeon R7 360",
+        "performance": "8.05"
+    },
+    {
+        "name": "Radeon HD 7790",
+        "performance": "8.01"
+    },
+    {
+        "name": "GeForce GTX 560 Ti",
+        "performance": "7.90"
+    },
+    {
+        "name": "GeForce GTX 860M",
+        "performance": "7.90"
+    },
+    {
+        "name": "FirePro W5100",
+        "performance": "7.81"
+    },
+    {
+        "name": "Radeon HD 6990",
+        "performance": "7.81"
+    },
+    {
+        "name": "FirePro W5000",
+        "performance": "7.71"
+    },
+    {
+        "name": "GRID M3-3020",
+        "performance": "7.66"
+    },
+    {
+        "name": "GRID K260Q",
+        "performance": "7.65"
+    },
+    {
+        "name": "Quadro K1200",
+        "performance": "7.62"
+    },
+    {
+        "name": "Tesla K20Xm",
+        "performance": "7.56"
+    },
+    {
+        "name": "Iris Xe Graphics G7 80EUs",
+        "performance": "7.53"
+    },
+    {
+        "name": "FirePro W4300",
+        "performance": "7.50"
+    },
+    {
+        "name": "Radeon R7 260",
+        "performance": "7.49"
+    },
+    {
+        "name": "Quadro M1000M",
+        "performance": "7.41"
+    },
+    {
+        "name": "Radeon RX Vega 7",
+        "performance": "7.40"
+    },
+    {
+        "name": "Radeon Pro V340",
+        "performance": "7.40"
+    },
+    {
+        "name": "Radeon Pro V340 MxGPU",
+        "performance": "7.40"
+    },
+    {
+        "name": "GRID K280Q",
+        "performance": "7.36"
+    },
+    {
+        "name": "Tesla C2070",
+        "performance": "7.36"
+    },
+    {
+        "name": "Radeon HD 6970",
+        "performance": "7.34"
+    },
+    {
+        "name": "GeForce MX350",
+        "performance": "7.28"
+    },
+    {
+        "name": "Radeon HD 6930",
+        "performance": "7.25"
+    },
+    {
+        "name": "Quadro M620",
+        "performance": "7.24"
+    },
+    {
+        "name": "GeForce GTX 770M",
+        "performance": "7.24"
+    },
+    {
+        "name": "Radeon RX 540",
+        "performance": "7.23"
+    },
+    {
+        "name": "Quadro K5000M",
+        "performance": "7.20"
+    },
+    {
+        "name": "UHD Graphics 64EUs (Alder Lake 12th Gen)",
+        "performance": "7.18"
+    },
+    {
+        "name": "Radeon R9 M380",
+        "performance": "7.16"
+    },
+    {
+        "name": "Quadro K4100M",
+        "performance": "7.14"
+    },
+    {
+        "name": "GeForce GTX 560",
+        "performance": "7.12"
+    },
+    {
+        "name": "Radeon RX 550",
+        "performance": "7.11"
+    },
+    {
+        "name": "GRID K2",
+        "performance": "7.09"
+    },
+    {
+        "name": "GeForce GTX 570 Rev. 2",
+        "performance": "7.08"
+    },
+    {
+        "name": "Radeon Pro 450",
+        "performance": "7.06"
+    },
+    {
+        "name": "Quadro K4000",
+        "performance": "7.05"
+    },
+    {
+        "name": "GeForce GTX 675MX",
+        "performance": "7.04"
+    },
+    {
+        "name": "Quadro 6000",
+        "performance": "7.02"
+    },
+    {
+        "name": "Radeon RX 550 (móvel)",
+        "performance": "6.93"
+    },
+    {
+        "name": "GeForce GT 750M SLI",
+        "performance": "6.91"
+    },
+    {
+        "name": "GeForce GTX 465",
+        "performance": "6.89"
+    },
+    {
+        "name": "FirePro R5000",
+        "performance": "6.86"
+    },
+    {
+        "name": "Radeon HD 6950",
+        "performance": "6.78"
+    },
+    {
+        "name": "Radeon Pro WX 4150",
+        "performance": "6.78"
+    },
+    {
+        "name": "GeForce GTX 950M",
+        "performance": "6.70"
+    },
+    {
+        "name": "GeForce GTX 780M Mac Edition",
+        "performance": "6.70"
+    },
+    {
+        "name": "GeForce GTX 470M SLI",
+        "performance": "6.64"
+    },
+    {
+        "name": "GeForce GTX 950A",
+        "performance": "6.62"
+    },
+    {
+        "name": "Radeon PRO WX 3100",
+        "performance": "6.61"
+    },
+    {
+        "name": "GRID K240Q",
+        "performance": "6.59"
+    },
+    {
+        "name": "Radeon HD 6850 X2",
+        "performance": "6.57"
+    },
+    {
+        "name": "FireStream 9370",
+        "performance": "6.55"
+    },
+    {
+        "name": "GeForce GTX 650 Ti",
+        "performance": "6.55"
+    },
+    {
+        "name": "Iris Plus Graphics 950",
+        "performance": "6.53"
+    },
+    {
+        "name": "GeForce GTX 850M",
+        "performance": "6.52"
+    },
+    {
+        "name": "GeForce GTX 560M SLI",
+        "performance": "6.49"
+    },
+    {
+        "name": "GeForce GTX 480M SLI",
+        "performance": "6.46"
+    },
+    {
+        "name": "UHD Graphics P630",
+        "performance": "6.39"
+    },
+    {
+        "name": "GeForce GT 1030",
+        "performance": "6.38"
+    },
+    {
+        "name": "Radeon Pro WX 3200",
+        "performance": "6.32"
+    },
+    {
+        "name": "GeForce MX330",
+        "performance": "6.31"
+    },
+    {
+        "name": "GeForce MX250",
+        "performance": "6.26"
+    },
+    {
+        "name": "UHD Graphics 770",
+        "performance": "6.15"
+    },
+    {
+        "name": "Radeon RX Vega 6 (Ryzen 4000/5000)",
+        "performance": "6.14"
+    },
+    {
+        "name": "GeForce GTX 485M",
+        "performance": "6.12"
+    },
+    {
+        "name": "FirePro W6150M",
+        "performance": "6.11"
+    },
+    {
+        "name": "P106-090",
+        "performance": "6.07"
+    },
+    {
+        "name": "Radeon R9 M470",
+        "performance": "6.04"
+    },
+    {
+        "name": "Radeon RX 550X (móvel)",
+        "performance": "6.02"
+    },
+    {
+        "name": "FirePro V7900",
+        "performance": "5.97"
+    },
+    {
+        "name": "Radeon RX 550X",
+        "performance": "5.93"
+    },
+    {
+        "name": "Radeon HD 5970",
+        "performance": "5.92"
+    },
+    {
+        "name": "GeForce MX150",
+        "performance": "5.89"
+    },
+    {
+        "name": "Radeon HD 6970M",
+        "performance": "5.88"
+    },
+    {
+        "name": "Radeon R7 250X",
+        "performance": "5.88"
+    },
+    {
+        "name": "Quadro K3100M",
+        "performance": "5.87"
+    },
+    {
+        "name": "HD Graphics 5600",
+        "performance": "5.87"
+    },
+    {
+        "name": "GeForce GTX 460",
+        "performance": "5.86"
+    },
+    {
+        "name": "Quadro K620",
+        "performance": "5.78"
+    },
+    {
+        "name": "Radeon HD 5870",
+        "performance": "5.76"
+    },
+    {
+        "name": "Radeon HD 6870",
+        "performance": "5.75"
+    },
+    {
+        "name": "FirePro W5170M",
+        "performance": "5.68"
+    },
+    {
+        "name": "Radeon HD 7770",
+        "performance": "5.63"
+    },
+    {
+        "name": "Radeon R7 350",
+        "performance": "5.58"
+    },
+    {
+        "name": "FirePro M6100",
+        "performance": "5.58"
+    },
+    {
+        "name": "UHD Graphics",
+        "performance": "5.58"
+    },
+    {
+        "name": "Quadro M600M",
+        "performance": "5.57"
+    },
+    {
+        "name": "Radeon RX Vega 9",
+        "performance": "5.54"
+    },
+    {
+        "name": "Juniper",
+        "performance": "5.50"
+    },
+    {
+        "name": "Radeon RX Vega 11",
+        "performance": "5.48"
+    },
+    {
+        "name": "GeForce 945M",
+        "performance": "5.46"
+    },
+    {
+        "name": "FirePro M5100",
+        "performance": "5.45"
+    },
+    {
+        "name": "Quadro P520",
+        "performance": "5.44"
+    },
+    {
+        "name": "Iris Plus Graphics G7 (Ice Lake 64 EU)",
+        "performance": "5.43"
+    },
+    {
+        "name": "GeForce GTX 580M",
+        "performance": "5.38"
+    },
+    {
+        "name": "Radeon R9 M385",
+        "performance": "5.34"
+    },
+    {
+        "name": "Quadro 5000M",
+        "performance": "5.34"
+    },
+    {
+        "name": "Radeon Pro WX 4130",
+        "performance": "5.24"
+    },
+    {
+        "name": "Radeon HD 6990M",
+        "performance": "5.24"
+    },
+    {
+        "name": "Iris Pro Graphics P580",
+        "performance": "5.24"
+    },
+    {
+        "name": "Radeon Pro W5500M",
+        "performance": "5.21"
+    },
+    {
+        "name": "GeForce GTX 460 SE",
+        "performance": "5.19"
+    },
+    {
+        "name": "Radeon RX 640",
+        "performance": "5.18"
+    },
+    {
+        "name": "Radeon R9 M385X",
+        "performance": "5.17"
+    },
+    {
+        "name": "GeForce GTX 765M",
+        "performance": "5.16"
+    },
+    {
+        "name": "Radeon HD 5850",
+        "performance": "5.15"
+    },
+    {
+        "name": "Radeon 550",
+        "performance": "5.13"
+    },
+    {
+        "name": "Iris Xe Graphics MAX",
+        "performance": "5.11"
+    },
+    {
+        "name": "Iris Xe MAX Graphics",
+        "performance": "5.11"
+    },
+    {
+        "name": "Radeon HD 6850",
+        "performance": "5.10"
+    },
+    {
+        "name": "GeForce GT 650M SLI",
+        "performance": "5.08"
+    },
+    {
+        "name": "GeForce GTX 470M",
+        "performance": "5.06"
+    },
+    {
+        "name": "GeForce GTX 670MX",
+        "performance": "5.06"
+    },
+    {
+        "name": "Quadro 5000",
+        "performance": "5.01"
+    },
+    {
+        "name": "GeForce GTX 675M",
+        "performance": "5.00"
+    },
+    {
+        "name": "Radeon RX 570X",
+        "performance": "4.99"
+    },
+    {
+        "name": "GeForce GTX 560 SE",
+        "performance": "4.96"
+    },
+    {
+        "name": "GeForce GTX 460M SLI",
+        "performance": "4.95"
+    },
+    {
+        "name": "Quadro K4000M",
+        "performance": "4.93"
+    },
+    {
+        "name": "Mobility Radeon HD 5870 Crossfire",
+        "performance": "4.92"
+    },
+    {
+        "name": "Tesla M2070",
+        "performance": "4.88"
+    },
+    {
+        "name": "Quadro M520",
+        "performance": "4.85"
+    },
+    {
+        "name": "GeForce GTX 460 v2",
+        "performance": "4.85"
+    },
+    {
+        "name": "GeForce GTX 570M",
+        "performance": "4.83"
+    },
+    {
+        "name": "GeForce 945A",
+        "performance": "4.80"
+    },
+    {
+        "name": "Iris Pro Graphics 580",
+        "performance": "4.77"
+    },
+    {
+        "name": "GeForce MX130",
+        "performance": "4.76"
+    },
+    {
+        "name": "Radeon PRO WX 2100",
+        "performance": "4.75"
+    },
+    {
+        "name": "GeForce MX230",
+        "performance": "4.75"
+    },
+    {
+        "name": "FirePro M6000",
+        "performance": "4.72"
+    },
+    {
+        "name": "UHD Graphics Xe 32EUs (Tiger Lake-H)",
+        "performance": "4.71"
+    },
+    {
+        "name": "Iris Plus Graphics",
+        "performance": "4.70"
+    },
+    {
+        "name": "Radeon R9 M375X",
+        "performance": "4.68"
+    },
+    {
+        "name": "Radeon R9 M360",
+        "performance": "4.67"
+    },
+    {
+        "name": "Radeon RX Vega 5",
+        "performance": "4.65"
+    },
+    {
+        "name": "Radeon R7 M465X",
+        "performance": "4.61"
+    },
+    {
+        "name": "Quadro 5010M",
+        "performance": "4.59"
+    },
+    {
+        "name": "UHD Graphics P750",
+        "performance": "4.56"
+    },
+    {
+        "name": "Iris Plus Graphics 650",
+        "performance": "4.55"
+    },
+    {
+        "name": "GRID M10-8Q",
+        "performance": "4.55"
+    },
+    {
+        "name": "GeForce GTX 650",
+        "performance": "4.53"
+    },
+    {
+        "name": "GeForce GTX 670M",
+        "performance": "4.52"
+    },
+    {
+        "name": "Radeon RX Vega 8 (Ryzen 2000/3000)",
+        "performance": "4.50"
+    },
+    {
+        "name": "UHD Graphics 750",
+        "performance": "4.49"
+    },
+    {
+        "name": "Iris Plus Graphics 655",
+        "performance": "4.49"
+    },
+    {
+        "name": "Radeon HD 5830",
+        "performance": "4.49"
+    },
+    {
+        "name": "UHD Graphics Xe G4 48EUs",
+        "performance": "4.48"
+    },
+    {
+        "name": "GeForce GTX 760M",
+        "performance": "4.46"
+    },
+    {
+        "name": "Iris Plus Graphics 645",
+        "performance": "4.45"
+    },
+    {
+        "name": "Radeon HD 5770",
+        "performance": "4.42"
+    },
+    {
+        "name": "Radeon HD 7750",
+        "performance": "4.41"
+    },
+    {
+        "name": "GeForce GTS 450 Rev. 2",
+        "performance": "4.41"
+    },
+    {
+        "name": "GeForce GT 755M",
+        "performance": "4.38"
+    },
+    {
+        "name": "Radeon E8860",
+        "performance": "4.37"
+    },
+    {
+        "name": "Radeon R7 250E",
+        "performance": "4.37"
+    },
+    {
+        "name": "UHD Graphics Xe 750 32EUs",
+        "performance": "4.36"
+    },
+    {
+        "name": "GeForce GTX 460 768MB",
+        "performance": "4.36"
+    },
+    {
+        "name": "Radeon Graphics (Ryzen 7000)",
+        "performance": "4.34"
+    },
+    {
+        "name": "GeForce GT 750M Mac Edition",
+        "performance": "4.34"
+    },
+    {
+        "name": "FirePro W600",
+        "performance": "4.33"
+    },
+    {
+        "name": "Radeon R7 M380",
+        "performance": "4.32"
+    },
+    {
+        "name": "GRID M40",
+        "performance": "4.27"
+    },
+    {
+        "name": "Quadro P400",
+        "performance": "4.26"
+    },
+    {
+        "name": "Radeon HD 8870M",
+        "performance": "4.25"
+    },
+    {
+        "name": "Quadro K3000M",
+        "performance": "4.24"
+    },
+    {
+        "name": "Radeon RX Vega 10",
+        "performance": "4.24"
+    },
+    {
+        "name": "Quadro P500",
+        "performance": "4.22"
+    },
+    {
+        "name": "Iris Pro Graphics P6300",
+        "performance": "4.21"
+    },
+    {
+        "name": "GeForce GTX 285M SLI",
+        "performance": "4.21"
+    },
+    {
+        "name": "GeForce GTX 480M",
+        "performance": "4.19"
+    },
+    {
+        "name": "Radeon HD 6790",
+        "performance": "4.19"
+    },
+    {
+        "name": "Radeon R9 M275X",
+        "performance": "4.19"
+    },
+    {
+        "name": "UHD Graphics 730",
+        "performance": "4.16"
+    },
+    {
+        "name": "FirePro M4000",
+        "performance": "4.13"
+    },
+    {
+        "name": "Quadro K2000D",
+        "performance": "4.11"
+    },
+    {
+        "name": "Quadro K2000",
+        "performance": "4.10"
+    },
+    {
+        "name": "GeForce GTX 550 Ti",
+        "performance": "4.03"
+    },
+    {
+        "name": "Radeon R9 M370X",
+        "performance": "4.02"
+    },
+    {
+        "name": "Iris Plus Graphics G4 (Ice Lake 48 EU)",
+        "performance": "4.00"
+    },
+    {
+        "name": "GeForce 845M",
+        "performance": "3.95"
+    },
+    {
+        "name": "Iris Pro Graphics 6200",
+        "performance": "3.95"
+    },
+    {
+        "name": "GeForce 940MX",
+        "performance": "3.93"
+    },
+    {
+        "name": "GeForce GTX 285",
+        "performance": "3.93"
+    },
+    {
+        "name": "FirePro W4100",
+        "performance": "3.92"
+    },
+    {
+        "name": "Radeon HD 4890",
+        "performance": "3.91"
+    },
+    {
+        "name": "Radeon HD 7870M",
+        "performance": "3.91"
+    },
+    {
+        "name": "Iris Plus Graphics 640",
+        "performance": "3.86"
+    },
+    {
+        "name": "GeForce GT 740",
+        "performance": "3.85"
+    },
+    {
+        "name": "Radeon R9 M365X",
+        "performance": "3.84"
+    },
+    {
+        "name": "Quadro 4000",
+        "performance": "3.83"
+    },
+    {
+        "name": "GeForce GTX 660M",
+        "performance": "3.74"
+    },
+    {
+        "name": "Iris Graphics 550",
+        "performance": "3.72"
+    },
+    {
+        "name": "GeForce MX110",
+        "performance": "3.72"
+    },
+    {
+        "name": "Radeon 540X",
+        "performance": "3.72"
+    },
+    {
+        "name": "Radeon 630",
+        "performance": "3.72"
+    },
+    {
+        "name": "Radeon 550X",
+        "performance": "3.71"
+    },
+    {
+        "name": "Maxwell GPU Surface Book",
+        "performance": "3.70"
+    },
+    {
+        "name": "Maxwell GPU Surface Book (940M, GDDR5)",
+        "performance": "3.69"
+    },
+    {
+        "name": "Radeon R7 M370",
+        "performance": "3.67"
+    },
+    {
+        "name": "FirePro V5800",
+        "performance": "3.67"
+    },
+    {
+        "name": "Oland",
+        "performance": "3.67"
+    },
+    {
+        "name": "FirePro W5130M",
+        "performance": "3.65"
+    },
+    {
+        "name": "GeForce GTX 275",
+        "performance": "3.65"
+    },
+    {
+        "name": "UHD Graphics 32EUs (Alder Lake)",
+        "performance": "3.59"
+    },
+    {
+        "name": "Radeon 540",
+        "performance": "3.59"
+    },
+    {
+        "name": "Radeon HD 7850M",
+        "performance": "3.56"
+    },
+    {
+        "name": "Radeon HD 4870",
+        "performance": "3.56"
+    },
+    {
+        "name": "Radeon HD 6950M",
+        "performance": "3.56"
+    },
+    {
+        "name": "GeForce GT 640 Rev. 2",
+        "performance": "3.55"
+    },
+    {
+        "name": "Quadro K2100M",
+        "performance": "3.51"
+    },
+    {
+        "name": "FireStream 9270",
+        "performance": "3.48"
+    },
+    {
+        "name": "GeForce GT 750M",
+        "performance": "3.45"
+    },
+    {
+        "name": "Hainan",
+        "performance": "3.45"
+    },
+    {
+        "name": "GeForce GTX 280M SLI",
+        "performance": "3.44"
+    },
+    {
+        "name": "Radeon HD 7770M",
+        "performance": "3.43"
+    },
+    {
+        "name": "GeForce GTS 450",
+        "performance": "3.43"
+    },
+    {
+        "name": "FirePro M5950",
+        "performance": "3.41"
+    },
+    {
+        "name": "Radeon HD 4870 X2",
+        "performance": "3.39"
+    },
+    {
+        "name": "Radeon HD 8790M",
+        "performance": "3.38"
+    },
+    {
+        "name": "Tesla M2070-Q",
+        "performance": "3.38"
+    },
+    {
+        "name": "Quadro 4000M",
+        "performance": "3.38"
+    },
+    {
+        "name": "GeForce GTX 280",
+        "performance": "3.37"
+    },
+    {
+        "name": "GeForce GTX 775M Mac Edition",
+        "performance": "3.37"
+    },
+    {
+        "name": "GeForce GTX 660 OEM",
+        "performance": "3.36"
+    },
+    {
+        "name": "Radeon R7 M275DX",
+        "performance": "3.34"
+    },
+    {
+        "name": "GeForce 930MX",
+        "performance": "3.34"
+    },
+    {
+        "name": "Cayman",
+        "performance": "3.34"
+    },
+    {
+        "name": "GeForce GTX 260M SLI",
+        "performance": "3.30"
+    },
+    {
+        "name": "GeForce 930A",
+        "performance": "3.28"
+    },
+    {
+        "name": "FirePro V5900",
+        "performance": "3.28"
+    },
+    {
+        "name": "Iris Graphics 540",
+        "performance": "3.27"
+    },
+    {
+        "name": "GeForce GTX 560M",
+        "performance": "3.27"
+    },
+    {
+        "name": "Radeon HD 6770",
+        "performance": "3.24"
+    },
+    {
+        "name": "GeForce GT 745A",
+        "performance": "3.21"
+    },
+    {
+        "name": "GeForce GTX 460M",
+        "performance": "3.19"
+    },
+    {
+        "name": "GeForce GTX 760A",
+        "performance": "3.18"
+    },
+    {
+        "name": "Quadro FX 5800",
+        "performance": "3.17"
+    },
+    {
+        "name": "UHD Graphics Xe 750 32EUs (Rocket Lake)",
+        "performance": "3.16"
+    },
+    {
+        "name": "GeForce GTX 260",
+        "performance": "3.16"
+    },
+    {
+        "name": "Radeon HD 7730",
+        "performance": "3.13"
+    },
+    {
+        "name": "GeForce GTX 295",
+        "performance": "3.13"
+    },
+    {
+        "name": "GeForce GT 650M",
+        "performance": "3.12"
+    },
+    {
+        "name": "Radeon R9 M270X",
+        "performance": "3.12"
+    },
+    {
+        "name": "Mobility Radeon HD 4870 X2",
+        "performance": "3.12"
+    },
+    {
+        "name": "UHD Graphics G1 (Ice Lake 32 EU)",
+        "performance": "3.11"
+    },
+    {
+        "name": "GRID K340",
+        "performance": "3.11"
+    },
+    {
+        "name": "HD Graphics P630",
+        "performance": "3.11"
+    },
+    {
+        "name": "HD Graphics 630",
+        "performance": "3.10"
+    },
+    {
+        "name": "UHD Graphics 630",
+        "performance": "3.09"
+    },
+    {
+        "name": "Radeon HD 7750M",
+        "performance": "3.09"
+    },
+    {
+        "name": "GeForce 9800M GTX SLI",
+        "performance": "3.07"
+    },
+    {
+        "name": "Iris Pro Graphics 5200",
+        "performance": "3.07"
+    },
+    {
+        "name": "NVS 810",
+        "performance": "3.06"
+    },
+    {
+        "name": "GeForce GT 640",
+        "performance": "3.04"
+    },
+    {
+        "name": "Radeon RX Vega 6 (Ryzen 2000/3000)",
+        "performance": "3.04"
+    },
+    {
+        "name": "Radeon R7 512 Cores (Kaveri Desktop)",
+        "performance": "3.02"
+    },
+    {
+        "name": "Quadro K620M",
+        "performance": "3.02"
+    },
+    {
+        "name": "FireStream 9250",
+        "performance": "3.02"
+    },
+    {
+        "name": "Quadro M500M",
+        "performance": "3.02"
+    },
+    {
+        "name": "GeForce GTX 460 OEM",
+        "performance": "3.01"
+    },
+    {
+        "name": "Radeon HD 5750",
+        "performance": "3.01"
+    },
+    {
+        "name": "FirePro M4170",
+        "performance": "2.99"
+    },
+    {
+        "name": "Radeon HD 8770M",
+        "performance": "2.99"
+    },
+    {
+        "name": "FirePro W4190M",
+        "performance": "2.98"
+    },
+    {
+        "name": "Radeon RX Vega 3",
+        "performance": "2.98"
+    },
+    {
+        "name": "GeForce 840A",
+        "performance": "2.97"
+    },
+    {
+        "name": "Mobility Radeon HD 5870",
+        "performance": "2.96"
+    },
+    {
+        "name": "GeForce 830A",
+        "performance": "2.95"
+    },
+    {
+        "name": "Radeon HD 4850 X2",
+        "performance": "2.93"
+    },
+    {
+        "name": "Radeon R9 M265X",
+        "performance": "2.93"
+    },
+    {
+        "name": "GeForce 940M",
+        "performance": "2.92"
+    },
+    {
+        "name": "Radeon R7 M465",
+        "performance": "2.92"
+    },
+    {
+        "name": "Radeon R9 M275",
+        "performance": "2.89"
+    },
+    {
+        "name": "GeForce GT 545",
+        "performance": "2.88"
+    },
+    {
+        "name": "GeForce 940A",
+        "performance": "2.87"
+    },
+    {
+        "name": "Radeon R7 M350",
+        "performance": "2.86"
+    },
+    {
+        "name": "UHD Graphics 710",
+        "performance": "2.85"
+    },
+    {
+        "name": "Radeon R6 M340DX",
+        "performance": "2.85"
+    },
+    {
+        "name": "Radeon 610M",
+        "performance": "2.85"
+    },
+    {
+        "name": "GeForce GT 745M",
+        "performance": "2.84"
+    },
+    {
+        "name": "GeForce 840M",
+        "performance": "2.83"
+    },
+    {
+        "name": "Quadro K1100M",
+        "performance": "2.82"
+    },
+    {
+        "name": "GeForce 920MX",
+        "performance": "2.80"
+    },
+    {
+        "name": "Radeon 625",
+        "performance": "2.79"
+    },
+    {
+        "name": "HD Graphics P530",
+        "performance": "2.78"
+    },
+    {
+        "name": "Radeon R7 M460",
+        "performance": "2.76"
+    },
+    {
+        "name": "Radeon R7 250",
+        "performance": "2.76"
+    },
+    {
+        "name": "Radeon HD 8550G + HD 8750M Dual Graphics",
+        "performance": "2.75"
+    },
+    {
+        "name": "FirePro M4100",
+        "performance": "2.75"
+    },
+    {
+        "name": "Radeon R7 384 Cores (Kaveri Desktop)",
+        "performance": "2.74"
+    },
+    {
+        "name": "Opal",
+        "performance": "2.73"
+    },
+    {
+        "name": "Radeon HD 7670A",
+        "performance": "2.72"
+    },
+    {
+        "name": "GeForce GTX 850A",
+        "performance": "2.72"
+    },
+    {
+        "name": "Radeon HD 6750",
+        "performance": "2.70"
+    },
+    {
+        "name": "FirePro W4170M",
+        "performance": "2.68"
+    },
+    {
+        "name": "Radeon R5 430 OEM",
+        "performance": "2.67"
+    },
+    {
+        "name": "UHD Graphics 620",
+        "performance": "2.67"
+    },
+    {
+        "name": "Radeon HD 8650G + HD 8670M Dual Graphics",
+        "performance": "2.67"
+    },
+    {
+        "name": "Radeon HD 4850",
+        "performance": "2.66"
+    },
+    {
+        "name": "Radeon R9 A375",
+        "performance": "2.65"
+    },
+    {
+        "name": "Qualcomm Adreno 690",
+        "performance": "2.65"
+    },
+    {
+        "name": "Radeon 530",
+        "performance": "2.64"
+    },
+    {
+        "name": "Quadro K2000M",
+        "performance": "2.62"
+    },
+    {
+        "name": "GeForce 930M",
+        "performance": "2.62"
+    },
+    {
+        "name": "Radeon HD 7690M XT",
+        "performance": "2.62"
+    },
+    {
+        "name": "GeForce 830M",
+        "performance": "2.61"
+    },
+    {
+        "name": "HD Graphics 530",
+        "performance": "2.60"
+    },
+    {
+        "name": "Radeon R7 M260X",
+        "performance": "2.59"
+    },
+    {
+        "name": "Radeon HD 8750M",
+        "performance": "2.59"
+    },
+    {
+        "name": "Radeon R7 A265",
+        "performance": "2.57"
+    },
+    {
+        "name": "Quadro 3000M",
+        "performance": "2.57"
+    },
+    {
+        "name": "FirePro V4900",
+        "performance": "2.57"
+    },
+    {
+        "name": "Radeon HD 8690M",
+        "performance": "2.55"
+    },
+    {
+        "name": "Qualcomm Adreno 685",
+        "performance": "2.54"
+    },
+    {
+        "name": "Quadro FX 4800",
+        "performance": "2.54"
+    },
+    {
+        "name": "Quadro 2000D",
+        "performance": "2.53"
+    },
+    {
+        "name": "Radeon HD 8850M",
+        "performance": "2.52"
+    },
+    {
+        "name": "UHD Graphics G7 (Lakefield GT2 64 EU)",
+        "performance": "2.52"
+    },
+    {
+        "name": "Radeon R9 M375",
+        "performance": "2.51"
+    },
+    {
+        "name": "Radeon HD 6770M",
+        "performance": "2.50"
+    },
+    {
+        "name": "Radeon R7 M270DX",
+        "performance": "2.49"
+    },
+    {
+        "name": "FirePro M4150",
+        "performance": "2.46"
+    },
+    {
+        "name": "Quadro",
+        "performance": "2.46"
+    },
+    {
+        "name": "Quadro CX",
+        "performance": "2.46"
+    },
+    {
+        "name": "Quadro 2000",
+        "performance": "2.45"
+    },
+    {
+        "name": "Radeon R7 M445",
+        "performance": "2.44"
+    },
+    {
+        "name": "Radeon R5 (Bristol Ridge)",
+        "performance": "2.43"
+    },
+    {
+        "name": "Radeon HD 6750M",
+        "performance": "2.43"
+    },
+    {
+        "name": "HD Graphics 620",
+        "performance": "2.42"
+    },
+    {
+        "name": "GeForce GT 645M",
+        "performance": "2.42"
+    },
+    {
+        "name": "GeForce GT 640M",
+        "performance": "2.40"
+    },
+    {
+        "name": "GRID K220Q",
+        "performance": "2.36"
+    },
+    {
+        "name": "Radeon HD 4770",
+        "performance": "2.36"
+    },
+    {
+        "name": "Radeon HD 7690M",
+        "performance": "2.36"
+    },
+    {
+        "name": "FirePro W2100",
+        "performance": "2.34"
+    },
+    {
+        "name": "Radeon R7 240",
+        "performance": "2.33"
+    },
+    {
+        "name": "Radeon R7 M440",
+        "performance": "2.33"
+    },
+    {
+        "name": "Radeon 620",
+        "performance": "2.33"
+    },
+    {
+        "name": "UHD Graphics 24EUs (Alder Lake-N)",
+        "performance": "2.32"
+    },
+    {
+        "name": "Iris Graphics 6100",
+        "performance": "2.32"
+    },
+    {
+        "name": "UHD Graphics Xe 16EUs (Tiger Lake-H)",
+        "performance": "2.30"
+    },
+    {
+        "name": "UHD Graphics (Jasper Lake 24 EU)",
+        "performance": "2.29"
+    },
+    {
+        "name": "Radeon E6760",
+        "performance": "2.27"
+    },
+    {
+        "name": "UHD Graphics 617",
+        "performance": "2.23"
+    },
+    {
+        "name": "Mobility Radeon HD 3870 X2",
+        "performance": "2.21"
+    },
+    {
+        "name": "HD Graphics 6000",
+        "performance": "2.20"
+    },
+    {
+        "name": "GeForce 920A",
+        "performance": "2.17"
+    },
+    {
+        "name": "Radeon HD 4830",
+        "performance": "2.16"
+    },
+    {
+        "name": "Radeon HD 6650A",
+        "performance": "2.16"
+    },
+    {
+        "name": "GeForce GT 730",
+        "performance": "2.16"
+    },
+    {
+        "name": "GeForce GT 755M Mac Edition",
+        "performance": "2.16"
+    },
+    {
+        "name": "HD Graphics 520",
+        "performance": "2.15"
+    },
+    {
+        "name": "Quadro FX 3800",
+        "performance": "2.14"
+    },
+    {
+        "name": "Radeon HD 3850 X2",
+        "performance": "2.13"
+    },
+    {
+        "name": "Radeon R7 M260DX",
+        "performance": "2.12"
+    },
+    {
+        "name": "Radeon R9 M280X",
+        "performance": "2.11"
+    },
+    {
+        "name": "GeForce GT 730M",
+        "performance": "2.11"
+    },
+    {
+        "name": "GeForce GT 445M",
+        "performance": "2.10"
+    },
+    {
+        "name": "FirePro M7740",
+        "performance": "2.10"
+    },
+    {
+        "name": "Mobility Radeon HD 4870",
+        "performance": "2.10"
+    },
+    {
+        "name": "Radeon HD 5670",
+        "performance": "2.08"
+    },
+    {
+        "name": "Radeon R5 M435",
+        "performance": "2.07"
+    },
+    {
+        "name": "Radeon HD 7660G + HD 7670M Dual Graphics",
+        "performance": "2.07"
+    },
+    {
+        "name": "Qualcomm Adreno 680",
+        "performance": "2.07"
+    },
+    {
+        "name": "GeForce 9800 GX2",
+        "performance": "2.07"
+    },
+    {
+        "name": "Radeon R8 M445DX",
+        "performance": "2.06"
+    },
+    {
+        "name": "GeForce GT 740M",
+        "performance": "2.06"
+    },
+    {
+        "name": "Radeon 520",
+        "performance": "2.04"
+    },
+    {
+        "name": "Radeon HD 8650M",
+        "performance": "2.04"
+    },
+    {
+        "name": "GeForce 825M",
+        "performance": "2.03"
+    },
+    {
+        "name": "Quadro K1000M",
+        "performance": "2.02"
+    },
+    {
+        "name": "Quadro 2000M",
+        "performance": "2.02"
+    },
+    {
+        "name": "Radeon HD 7730M",
+        "performance": "2.01"
+    },
+    {
+        "name": "GeForce 8800M GTX SLI",
+        "performance": "2.01"
+    },
+    {
+        "name": "Radeon HD 8730M",
+        "performance": "2.00"
+    },
+    {
+        "name": "Radeon HD 8550G + HD 8670M Dual Graphics",
+        "performance": "2.00"
+    },
+    {
+        "name": "GeForce GT 440",
+        "performance": "2.00"
+    },
+    {
+        "name": "Radeon HD 8650G + HD 8570M Dual Graphics",
+        "performance": "1.99"
+    },
+    {
+        "name": "Radeon HD 4810",
+        "performance": "1.99"
+    },
+    {
+        "name": "GeForce 9800 GTX",
+        "performance": "1.99"
+    },
+    {
+        "name": "Radeon HD 6850M",
+        "performance": "1.99"
+    },
+    {
+        "name": "Radeon R7 (Carrizo)",
+        "performance": "1.99"
+    },
+    {
+        "name": "GeForce 9800M GT SLI",
+        "performance": "1.99"
+    },
+    {
+        "name": "Radeon R7 M270",
+        "performance": "1.99"
+    },
+    {
+        "name": "UHD Graphics (Jasper Lake 32 EU)",
+        "performance": "1.98"
+    },
+    {
+        "name": "UHD Graphics 615",
+        "performance": "1.98"
+    },
+    {
+        "name": "Radeon Graphics",
+        "performance": "1.98"
+    },
+    {
+        "name": "Radeon R7 (Bristol Ridge)",
+        "performance": "1.95"
+    },
+    {
+        "name": "Radeon HD 6650M",
+        "performance": "1.95"
+    },
+    {
+        "name": "GeForce 9800M GTS SLI",
+        "performance": "1.95"
+    },
+    {
+        "name": "Radeon R7 M365X",
+        "performance": "1.94"
+    },
+    {
+        "name": "Iris Graphics 5100",
+        "performance": "1.93"
+    },
+    {
+        "name": "Quadro K420",
+        "performance": "1.93"
+    },
+    {
+        "name": "GeForce GT 730A",
+        "performance": "1.92"
+    },
+    {
+        "name": "Quadro K600",
+        "performance": "1.91"
+    },
+    {
+        "name": "Mobility Radeon HD 5850",
+        "performance": "1.91"
+    },
+    {
+        "name": "Radeon HD 6620G + HD 7670M Dual Graphics",
+        "performance": "1.90"
+    },
+    {
+        "name": "Quadro K610M",
+        "performance": "1.90"
+    },
+    {
+        "name": "UHD Graphics 610",
+        "performance": "1.89"
+    },
+    {
+        "name": "Radeon HD 6670",
+        "performance": "1.88"
+    },
+    {
+        "name": "GRID K140Q",
+        "performance": "1.88"
+    },
+    {
+        "name": "GeForce 920M",
+        "performance": "1.87"
+    },
+    {
+        "name": "HD Graphics 615",
+        "performance": "1.87"
+    },
+    {
+        "name": "HD Graphics 610",
+        "performance": "1.85"
+    },
+    {
+        "name": "HD Graphics 4600",
+        "performance": "1.84"
+    },
+    {
+        "name": "Radeon R5 (Carrizo)",
+        "performance": "1.84"
+    },
+    {
+        "name": "Radeon HD 3870 X2",
+        "performance": "1.84"
+    },
+    {
+        "name": "Radeon HD 6550A",
+        "performance": "1.83"
+    },
+    {
+        "name": "GeForce GT 640M LE",
+        "performance": "1.83"
+    },
+    {
+        "name": "NVS 510",
+        "performance": "1.80"
+    },
+    {
+        "name": "Radeon R6 (Kaveri)",
+        "performance": "1.79"
+    },
+    {
+        "name": "Radeon HD 6630M",
+        "performance": "1.77"
+    },
+    {
+        "name": "GeForce GTS 160M",
+        "performance": "1.76"
+    },
+    {
+        "name": "GeForce GT 630",
+        "performance": "1.76"
+    },
+    {
+        "name": "Quadro FX 4700 X2",
+        "performance": "1.75"
+    },
+    {
+        "name": "Radeon R8 M535DX",
+        "performance": "1.74"
+    },
+    {
+        "name": "GeForce GT 740A",
+        "performance": "1.73"
+    },
+    {
+        "name": "Radeon HD 6740G2",
+        "performance": "1.72"
+    },
+    {
+        "name": "Radeon HD 2900 XT",
+        "performance": "1.71"
+    },
+    {
+        "name": "GeForce 810A",
+        "performance": "1.70"
+    },
+    {
+        "name": "GeForce GT 640 OEM",
+        "performance": "1.70"
+    },
+    {
+        "name": "Radeon R7 M340",
+        "performance": "1.70"
+    },
+    {
+        "name": "GeForce GT 555M",
+        "performance": "1.70"
+    },
+    {
+        "name": "GeForce GTS 360M",
+        "performance": "1.69"
+    },
+    {
+        "name": "Sumo",
+        "performance": "1.69"
+    },
+    {
+        "name": "GRID K1",
+        "performance": "1.69"
+    },
+    {
+        "name": "GeForce GT 735M",
+        "performance": "1.68"
+    },
+    {
+        "name": "Radeon R5 M430",
+        "performance": "1.68"
+    },
+    {
+        "name": "Radeon R8 M365DX",
+        "performance": "1.68"
+    },
+    {
+        "name": "FireStream 9170",
+        "performance": "1.68"
+    },
+    {
+        "name": "Radeon HD 7520G + HD 7670M Dual Graphics",
+        "performance": "1.67"
+    },
+    {
+        "name": "GeForce 8800 Ultra",
+        "performance": "1.66"
+    },
+    {
+        "name": "GeForce GT 630 OEM",
+        "performance": "1.66"
+    },
+    {
+        "name": "Quadro K510M",
+        "performance": "1.66"
+    },
+    {
+        "name": "FirePro V3900",
+        "performance": "1.66"
+    },
+    {
+        "name": "GeForce GTX 285M",
+        "performance": "1.65"
+    },
+    {
+        "name": "Mobility Radeon HD 4850",
+        "performance": "1.64"
+    },
+    {
+        "name": "HD Graphics 515",
+        "performance": "1.64"
+    },
+    {
+        "name": "Radeon HD 8450G + Radeon HD 8570M Dual Graphics",
+        "performance": "1.64"
+    },
+    {
+        "name": "Radeon HD 7610M",
+        "performance": "1.64"
+    },
+    {
+        "name": "Radeon HD 7640G + HD 7610M Dual Graphics",
+        "performance": "1.64"
+    },
+    {
+        "name": "Radeon HD 6720G2",
+        "performance": "1.63"
+    },
+    {
+        "name": "GRID K160Q",
+        "performance": "1.63"
+    },
+    {
+        "name": "GeForce GT 710",
+        "performance": "1.63"
+    },
+    {
+        "name": "Radeon HD 2900 PRO",
+        "performance": "1.63"
+    },
+    {
+        "name": "Radeon HD 7640G + HD 7670M Dual Graphics",
+        "performance": "1.62"
+    },
+    {
+        "name": "NVS 5400M",
+        "performance": "1.62"
+    },
+    {
+        "name": "HD Graphics 510",
+        "performance": "1.61"
+    },
+    {
+        "name": "GeForce 720A",
+        "performance": "1.59"
+    },
+    {
+        "name": "GeForce GT 720",
+        "performance": "1.59"
+    },
+    {
+        "name": "Radeon R7 (Kaveri)",
+        "performance": "1.59"
+    },
+    {
+        "name": "Radeon HD 7570",
+        "performance": "1.59"
+    },
+    {
+        "name": "GeForce GT 650M Mac Edition",
+        "performance": "1.59"
+    },
+    {
+        "name": "Radeon R7 A360",
+        "performance": "1.57"
+    },
+    {
+        "name": "HD Graphics P4600",
+        "performance": "1.57"
+    },
+    {
+        "name": "Radeon R6 M255DX",
+        "performance": "1.57"
+    },
+    {
+        "name": "GeForce GTX 660M Mac Edition",
+        "performance": "1.56"
+    },
+    {
+        "name": "GeForce 910M",
+        "performance": "1.56"
+    },
+    {
+        "name": "GeForce GT 430",
+        "performance": "1.55"
+    },
+    {
+        "name": "GeForce GTS 250",
+        "performance": "1.55"
+    },
+    {
+        "name": "Radeon R5 M330",
+        "performance": "1.54"
+    },
+    {
+        "name": "GeForce 8800 GTX",
+        "performance": "1.53"
+    },
+    {
+        "name": "HD Graphics 5000",
+        "performance": "1.52"
+    },
+    {
+        "name": "Quadro FX 3800M",
+        "performance": "1.52"
+    },
+    {
+        "name": "Radeon R6 (Carrizo)",
+        "performance": "1.51"
+    },
+    {
+        "name": "HD Graphics 5500",
+        "performance": "1.51"
+    },
+    {
+        "name": "Radeon R5 A240",
+        "performance": "1.49"
+    },
+    {
+        "name": "Radeon HD 8550M",
+        "performance": "1.49"
+    },
+    {
+        "name": "GeForce GTX 280M",
+        "performance": "1.49"
+    },
+    {
+        "name": "GeForce GT 550M",
+        "performance": "1.49"
+    },
+    {
+        "name": "GeForce GT 720A",
+        "performance": "1.49"
+    },
+    {
+        "name": "Radeon R7 M360",
+        "performance": "1.48"
+    },
+    {
+        "name": "Quadro 500M",
+        "performance": "1.48"
+    },
+    {
+        "name": "Radeon HD 7650A",
+        "performance": "1.48"
+    },
+    {
+        "name": "Quadro 1000M",
+        "performance": "1.48"
+    },
+    {
+        "name": "GeForce 8800 GTS 512",
+        "performance": "1.47"
+    },
+    {
+        "name": "Mobility Radeon HD 5730",
+        "performance": "1.47"
+    },
+    {
+        "name": "Radeon HD 6610M",
+        "performance": "1.46"
+    },
+    {
+        "name": "Radeon HD 6755G2",
+        "performance": "1.46"
+    },
+    {
+        "name": "GeForce GT 820M",
+        "performance": "1.46"
+    },
+    {
+        "name": "Radeon HD 6570M",
+        "performance": "1.46"
+    },
+    {
+        "name": "Radeon R5 (Stoney Ridge)",
+        "performance": "1.45"
+    },
+    {
+        "name": "GeForce GT 635M",
+        "performance": "1.45"
+    },
+    {
+        "name": "Radeon HD 3870",
+        "performance": "1.44"
+    },
+    {
+        "name": "GeForce 820A",
+        "performance": "1.44"
+    },
+    {
+        "name": "GeForce 9800M GS",
+        "performance": "1.44"
+    },
+    {
+        "name": "GeForce GTS 250M",
+        "performance": "1.43"
+    },
+    {
+        "name": "FirePro M5800",
+        "performance": "1.43"
+    },
+    {
+        "name": "Radeon HD 6570",
+        "performance": "1.43"
+    },
+    {
+        "name": "Mobility Radeon HD 4830",
+        "performance": "1.42"
+    },
+    {
+        "name": "Radeon R5 M335",
+        "performance": "1.42"
+    },
+    {
+        "name": "Radeon R7 M265",
+        "performance": "1.41"
+    },
+    {
+        "name": "GeForce GT 630M",
+        "performance": "1.40"
+    },
+    {
+        "name": "Radeon HD 6680G2",
+        "performance": "1.40"
+    },
+    {
+        "name": "Mobility Radeon HD 3870",
+        "performance": "1.39"
+    },
+    {
+        "name": "Mobility Radeon HD 5830",
+        "performance": "1.39"
+    },
+    {
+        "name": "GeForce GT 435M",
+        "performance": "1.39"
+    },
+    {
+        "name": "Radeon R5 M255",
+        "performance": "1.38"
+    },
+    {
+        "name": "Mobility Radeon HD 5650",
+        "performance": "1.38"
+    },
+    {
+        "name": "GRID K180Q",
+        "performance": "1.38"
+    },
+    {
+        "name": "Radeon HD 6730M",
+        "performance": "1.38"
+    },
+    {
+        "name": "Quadro 600",
+        "performance": "1.38"
+    },
+    {
+        "name": "Radeon HD 8670D",
+        "performance": "1.37"
+    },
+    {
+        "name": "UHD Graphics (Jasper Lake 16 EU)",
+        "performance": "1.37"
+    },
+    {
+        "name": "Radeon HD 6550M",
+        "performance": "1.36"
+    },
+    {
+        "name": "Quadro FX 5600",
+        "performance": "1.36"
+    },
+    {
+        "name": "Radeon HD 8650G",
+        "performance": "1.36"
+    },
+    {
+        "name": "Radeon HD 6520G + HD 7450M Dual Graphics",
+        "performance": "1.36"
+    },
+    {
+        "name": "HD Graphics 4400",
+        "performance": "1.35"
+    },
+    {
+        "name": "GeForce GT 425M",
+        "performance": "1.35"
+    },
+    {
+        "name": "Radeon HD 8670M",
+        "performance": "1.35"
+    },
+    {
+        "name": "HD Graphics P4000",
+        "performance": "1.34"
+    },
+    {
+        "name": "Radeon HD 6510G2",
+        "performance": "1.34"
+    },
+    {
+        "name": "Mobility Radeon",
+        "performance": "1.34"
+    },
+    {
+        "name": "GeForce 615",
+        "performance": "1.33"
+    },
+    {
+        "name": "NVS 5200M",
+        "performance": "1.33"
+    },
+    {
+        "name": "Radeon HD 6540G2",
+        "performance": "1.32"
+    },
+    {
+        "name": "GeForce GT 240",
+        "performance": "1.31"
+    },
+    {
+        "name": "GeForce GTS 150M",
+        "performance": "1.31"
+    },
+    {
+        "name": "Radeon HD 7660D",
+        "performance": "1.30"
+    },
+    {
+        "name": "Radeon R7 M265DX",
+        "performance": "1.29"
+    },
+    {
+        "name": "Radeon R7 M260",
+        "performance": "1.29"
+    },
+    {
+        "name": "Radeon HD 6530M",
+        "performance": "1.28"
+    },
+    {
+        "name": "GeForce 9800 GTX+",
+        "performance": "1.28"
+    },
+    {
+        "name": "GeForce 820M",
+        "performance": "1.28"
+    },
+    {
+        "name": "GeForce 9600 GT",
+        "performance": "1.27"
+    },
+    {
+        "name": "Radeon R5 M420",
+        "performance": "1.26"
+    },
+    {
+        "name": "Quadro K500M",
+        "performance": "1.24"
+    },
+    {
+        "name": "GeForce 9800 GT",
+        "performance": "1.24"
+    },
+    {
+        "name": "GeForce 8800 GT",
+        "performance": "1.24"
+    },
+    {
+        "name": "GeForce GT 540M",
+        "performance": "1.24"
+    },
+    {
+        "name": "GeForce GT 625M",
+        "performance": "1.24"
+    },
+    {
+        "name": "Radeon HD 7660G",
+        "performance": "1.23"
+    },
+    {
+        "name": "Radeon HD 5570",
+        "performance": "1.23"
+    },
+    {
+        "name": "GeForce 800A",
+        "performance": "1.23"
+    },
+    {
+        "name": "Radeon R5 M315",
+        "performance": "1.23"
+    },
+    {
+        "name": "GeForce 710A",
+        "performance": "1.23"
+    },
+    {
+        "name": "Radeon HD 7670M",
+        "performance": "1.22"
+    },
+    {
+        "name": "Mobility Radeon HD 4670",
+        "performance": "1.22"
+    },
+    {
+        "name": "Radeon R5 (Kaveri)",
+        "performance": "1.21"
+    },
+    {
+        "name": "Quadro FX 1800M",
+        "performance": "1.21"
+    },
+    {
+        "name": "Quadro FX 3600M",
+        "performance": "1.21"
+    },
+    {
+        "name": "Radeon HD 7550M",
+        "performance": "1.20"
+    },
+    {
+        "name": "Radeon HD 7500G + HD 7550M Dual Graphics",
+        "performance": "1.20"
+    },
+    {
+        "name": "GeForce 8800M GTX",
+        "performance": "1.20"
+    },
+    {
+        "name": "Radeon HD 7640G",
+        "performance": "1.20"
+    },
+    {
+        "name": "GeForce GT 525M",
+        "performance": "1.19"
+    },
+    {
+        "name": "GeForce GT 720M",
+        "performance": "1.19"
+    },
+    {
+        "name": "GeForce 710M",
+        "performance": "1.19"
+    },
+    {
+        "name": "Radeon HD 7560D",
+        "performance": "1.19"
+    },
+    {
+        "name": "GeForce 800M",
+        "performance": "1.18"
+    },
+    {
+        "name": "Radeon HD 6480G + HD 7450M Dual Graphics",
+        "performance": "1.18"
+    },
+    {
+        "name": "Quadro FX 3700M",
+        "performance": "1.18"
+    },
+    {
+        "name": "GeForce 705M",
+        "performance": "1.18"
+    },
+    {
+        "name": "GeForce 9800M GTX",
+        "performance": "1.18"
+    },
+    {
+        "name": "HD Graphics 4000",
+        "performance": "1.18"
+    },
+    {
+        "name": "Radeon R5 M320",
+        "performance": "1.18"
+    },
+    {
+        "name": "UHD Graphics 605",
+        "performance": "1.17"
+    },
+    {
+        "name": "Radeon R4 (Stoney Ridge)",
+        "performance": "1.17"
+    },
+    {
+        "name": "Radeon R5 M240",
+        "performance": "1.16"
+    },
+    {
+        "name": "GeForce GT 710M",
+        "performance": "1.15"
+    },
+    {
+        "name": "Radeon HD 7650M",
+        "performance": "1.15"
+    },
+    {
+        "name": "Radeon HD 8570M",
+        "performance": "1.14"
+    },
+    {
+        "name": "GeForce GT 625 OEM",
+        "performance": "1.14"
+    },
+    {
+        "name": "Quadro 410",
+        "performance": "1.14"
+    },
+    {
+        "name": "HD Graphics 400",
+        "performance": "1.13"
+    },
+    {
+        "name": "Radeon HD 8410G",
+        "performance": "1.13"
+    },
+    {
+        "name": "GeForce GT 620M",
+        "performance": "1.13"
+    },
+    {
+        "name": "Radeon HD 3850 AGP",
+        "performance": "1.12"
+    },
+    {
+        "name": "Radeon HD 8570D",
+        "performance": "1.11"
+    },
+    {
+        "name": "Quadro FX 4600",
+        "performance": "1.11"
+    },
+    {
+        "name": "Radeon HD 7570M",
+        "performance": "1.10"
+    },
+    {
+        "name": "FirePro M2000",
+        "performance": "1.10"
+    },
+    {
+        "name": "Mobility Radeon HD 5165",
+        "performance": "1.10"
+    },
+    {
+        "name": "Quadro FX 2800M",
+        "performance": "1.08"
+    },
+    {
+        "name": "GeForce GT 640M Mac Edition",
+        "performance": "1.08"
+    },
+    {
+        "name": "Radeon HD 8610G",
+        "performance": "1.08"
+    },
+    {
+        "name": "Radeon R5 M230",
+        "performance": "1.07"
+    },
+    {
+        "name": "Radeon R5 (Beema/Carrizo-L)",
+        "performance": "1.07"
+    },
+    {
+        "name": "Radeon HD 8550G",
+        "performance": "1.07"
+    },
+    {
+        "name": "GeForce 810M",
+        "performance": "1.07"
+    },
+    {
+        "name": "GeForce GTS 350M",
+        "performance": "1.06"
+    },
+    {
+        "name": "Radeon HD 7470M",
+        "performance": "1.06"
+    },
+    {
+        "name": "Radeon E4690",
+        "performance": "1.05"
+    },
+    {
+        "name": "Caicos",
+        "performance": "1.04"
+    },
+    {
+        "name": "UHD Graphics (Elkhart Lake 16 EU)",
+        "performance": "1.04"
+    },
+    {
+        "name": "Mobility Radeon HD 4650",
+        "performance": "1.04"
+    },
+    {
+        "name": "Radeon HD 6550D",
+        "performance": "1.04"
+    },
+    {
+        "name": "Quadro FX 1800",
+        "performance": "1.04"
+    },
+    {
+        "name": "Radeon R4 (Beema)",
+        "performance": "1.03"
+    },
+    {
+        "name": "Radeon R2 (Stoney Ridge)",
+        "performance": "1.03"
+    },
+    {
+        "name": "HD Graphics 5300",
+        "performance": "1.03"
+    },
+    {
+        "name": "GeForce GT 420M",
+        "performance": "1.03"
+    },
+    {
+        "name": "Radeon HD 3850",
+        "performance": "1.02"
+    },
+    {
+        "name": "GeForce 7900 GTX",
+        "performance": "1.00"
+    },
+    {
+        "name": "GeForce 8800M GTS",
+        "performance": "0.99"
+    },
+    {
+        "name": "GeForce GT 335M",
+        "performance": "0.99"
+    },
+    {
+        "name": "GeForce 9800M GT",
+        "performance": "0.99"
+    },
+    {
+        "name": "Radeon HD 4670",
+        "performance": "0.98"
+    },
+    {
+        "name": "GeForce GTX 260M",
+        "performance": "0.98"
+    },
+    {
+        "name": "Quadro FX 3700",
+        "performance": "0.98"
+    },
+    {
+        "name": "Radeon HD 6490M",
+        "performance": "0.98"
+    },
+    {
+        "name": "Radeon HD 5550",
+        "performance": "0.97"
+    },
+    {
+        "name": "GeForce GT 620",
+        "performance": "0.97"
+    },
+    {
+        "name": "GeForce 9800M GTS",
+        "performance": "0.97"
+    },
+    {
+        "name": "HD Graphics 4200",
+        "performance": "0.97"
+    },
+    {
+        "name": "HD Graphics (Broadwell)",
+        "performance": "0.96"
+    },
+    {
+        "name": "Radeon HD 6450 GDDR5",
+        "performance": "0.96"
+    },
+    {
+        "name": "Radeon HD 8470D",
+        "performance": "0.95"
+    },
+    {
+        "name": "Quadro FX 2700M",
+        "performance": "0.95"
+    },
+    {
+        "name": "Radeon HD 7620G",
+        "performance": "0.94"
+    },
+    {
+        "name": "HD Graphics 505",
+        "performance": "0.93"
+    },
+    {
+        "name": "Radeon HD 8510G",
+        "performance": "0.93"
+    },
+    {
+        "name": "Quadro NVS 5100M",
+        "performance": "0.92"
+    },
+    {
+        "name": "Radeon HD 8450G",
+        "performance": "0.90"
+    },
+    {
+        "name": "GeForce 7950 GT",
+        "performance": "0.90"
+    },
+    {
+        "name": "NVS 315",
+        "performance": "0.90"
+    },
+    {
+        "name": "Radeon HD 6620G",
+        "performance": "0.88"
+    },
+    {
+        "name": "Radeon HD 8310E",
+        "performance": "0.88"
+    },
+    {
+        "name": "UHD Graphics 600",
+        "performance": "0.87"
+    },
+    {
+        "name": "GeForce 8800 GS",
+        "performance": "0.86"
+    },
+    {
+        "name": "Radeon HD 7450M",
+        "performance": "0.85"
+    },
+    {
+        "name": "GeForce 9600 GSO 512",
+        "performance": "0.85"
+    },
+    {
+        "name": "GeForce 9600 GSO",
+        "performance": "0.85"
+    },
+    {
+        "name": "Radeon HD 7600G",
+        "performance": "0.85"
+    },
+    {
+        "name": "Radeon R4 (Kaveri)",
+        "performance": "0.85"
+    },
+    {
+        "name": "HD Graphics (Haswell)",
+        "performance": "0.84"
+    },
+    {
+        "name": "Radeon R3 (Mullins/Beema)",
+        "performance": "0.84"
+    },
+    {
+        "name": "GeForce GT 230",
+        "performance": "0.84"
+    },
+    {
+        "name": "Radeon E6460",
+        "performance": "0.84"
+    },
+    {
+        "name": "Radeon HD 7520G",
+        "performance": "0.82"
+    },
+    {
+        "name": "GeForce GT 610",
+        "performance": "0.81"
+    },
+    {
+        "name": "GeForce GT 520",
+        "performance": "0.81"
+    },
+    {
+        "name": "Mobility Radeon HD 560v",
+        "performance": "0.80"
+    },
+    {
+        "name": "Radeon HD 7420G",
+        "performance": "0.80"
+    },
+    {
+        "name": "Radeon HD 7500G",
+        "performance": "0.80"
+    },
+    {
+        "name": "Quadro FX 3500M",
+        "performance": "0.79"
+    },
+    {
+        "name": "Cedar",
+        "performance": "0.79"
+    },
+    {
+        "name": "Radeon HD 8350G",
+        "performance": "0.79"
+    },
+    {
+        "name": "GeForce 8700M GT SLI",
+        "performance": "0.79"
+    },
+    {
+        "name": "Mobility Radeon HD 550v",
+        "performance": "0.78"
+    },
+    {
+        "name": "Radeon HD 6520G",
+        "performance": "0.78"
+    },
+    {
+        "name": "HD Graphics",
+        "performance": "0.77"
+    },
+    {
+        "name": "HD Graphics 500",
+        "performance": "0.77"
+    },
+    {
+        "name": "GRID K120Q",
+        "performance": "0.76"
+    },
+    {
+        "name": "Radeon HD 2900 GT",
+        "performance": "0.76"
+    },
+    {
+        "name": "GeForce 7800 GTX",
+        "performance": "0.75"
+    },
+    {
+        "name": "GeForce 610M",
+        "performance": "0.75"
+    },
+    {
+        "name": "Radeon HD 7450A",
+        "performance": "0.75"
+    },
+    {
+        "name": "GeForce GT 415M",
+        "performance": "0.74"
+    },
+    {
+        "name": "GeForce GT 520MX",
+        "performance": "0.74"
+    },
+    {
+        "name": "HD Graphics P3000",
+        "performance": "0.74"
+    },
+    {
+        "name": "GeForce GT 520M",
+        "performance": "0.73"
+    },
+    {
+        "name": "Radeon HD 2600 XT",
+        "performance": "0.73"
+    },
+    {
+        "name": "HD Graphics 405",
+        "performance": "0.72"
+    },
+    {
+        "name": "Radeon HD 7480D",
+        "performance": "0.72"
+    },
+    {
+        "name": "GeForce 9700M GTS",
+        "performance": "0.72"
+    },
+    {
+        "name": "NVS 4200M",
+        "performance": "0.72"
+    },
+    {
+        "name": "Radeon HD 6370M",
+        "performance": "0.71"
+    },
+    {
+        "name": "Radeon HD 8400E",
+        "performance": "0.71"
+    },
+    {
+        "name": "GeForce 9650M GS",
+        "performance": "0.70"
+    },
+    {
+        "name": "GeForce Go 7900 GTX",
+        "performance": "0.70"
+    },
+    {
+        "name": "Radeon HD 5470",
+        "performance": "0.69"
+    },
+    {
+        "name": "Radeon HD 7400G",
+        "performance": "0.69"
+    },
+    {
+        "name": "Radeon HD 8400",
+        "performance": "0.69"
+    },
+    {
+        "name": "HD Graphics 2500",
+        "performance": "0.69"
+    },
+    {
+        "name": "Radeon HD 8330",
+        "performance": "0.68"
+    },
+    {
+        "name": "GeForce Go 7950 GTX",
+        "performance": "0.68"
+    },
+    {
+        "name": "Mobility Radeon HD 3850",
+        "performance": "0.68"
+    },
+    {
+        "name": "Radeon HD 6450A",
+        "performance": "0.67"
+    },
+    {
+        "name": "Radeon HD 8280",
+        "performance": "0.67"
+    },
+    {
+        "name": "Quadro FX 3500",
+        "performance": "0.67"
+    },
+    {
+        "name": "GeForce 7900 GT",
+        "performance": "0.67"
+    },
+    {
+        "name": "GeForce 410M",
+        "performance": "0.66"
+    },
+    {
+        "name": "Radeon HD 8280E",
+        "performance": "0.66"
+    },
+    {
+        "name": "Radeon HD 6480G",
+        "performance": "0.66"
+    },
+    {
+        "name": "HD Graphics 3000",
+        "performance": "0.66"
+    },
+    {
+        "name": "GeForce 7900 GS",
+        "performance": "0.66"
+    },
+    {
+        "name": "Radeon HD 6450M",
+        "performance": "0.65"
+    },
+    {
+        "name": "Radeon R2 (Mullins/Beema/Carrizo-L)",
+        "performance": "0.65"
+    },
+    {
+        "name": "Radeon HD 8330E",
+        "performance": "0.65"
+    },
+    {
+        "name": "NVS 310",
+        "performance": "0.64"
+    },
+    {
+        "name": "Radeon HD 8240",
+        "performance": "0.64"
+    },
+    {
+        "name": "Radeon R6 (Mullins)",
+        "performance": "0.64"
+    },
+    {
+        "name": "GeForce 7800 GT",
+        "performance": "0.63"
+    },
+    {
+        "name": "Quadro FX 5500",
+        "performance": "0.63"
+    },
+    {
+        "name": "HD Graphics (Ivy Bridge)",
+        "performance": "0.63"
+    },
+    {
+        "name": "HD Graphics (Braswell)",
+        "performance": "0.62"
+    },
+    {
+        "name": "Quadro NVS 510M",
+        "performance": "0.62"
+    },
+    {
+        "name": "Radeon HD 4650",
+        "performance": "0.62"
+    },
+    {
+        "name": "Quadro FX 4500 X2",
+        "performance": "0.61"
+    },
+    {
+        "name": "Mobility Radeon HD 5470",
+        "performance": "0.61"
+    },
+    {
+        "name": "Radeon HD 4550",
+        "performance": "0.61"
+    },
+    {
+        "name": "Quadro FX 570",
+        "performance": "0.60"
+    },
+    {
+        "name": "Radeon E6465",
+        "performance": "0.60"
+    },
+    {
+        "name": "Quadro NVS 290",
+        "performance": "0.59"
+    },
+    {
+        "name": "Radeon HD 6470M",
+        "performance": "0.59"
+    },
+    {
+        "name": "Quadro FX 4500",
+        "performance": "0.59"
+    },
+    {
+        "name": "Quadro FX 880M",
+        "performance": "0.58"
+    },
+    {
+        "name": "Radeon R5 230",
+        "performance": "0.57"
+    },
+    {
+        "name": "Quadro FX 770M",
+        "performance": "0.57"
+    },
+    {
+        "name": "GeForce GT 220",
+        "performance": "0.57"
+    },
+    {
+        "name": "GeForce 7600 GT",
+        "performance": "0.56"
+    },
+    {
+        "name": "Quadro FX 2500M",
+        "performance": "0.56"
+    },
+    {
+        "name": "GeForce GT 330M",
+        "performance": "0.56"
+    },
+    {
+        "name": "GeForce GT 240M",
+        "performance": "0.55"
+    },
+    {
+        "name": "HD Graphics 2000",
+        "performance": "0.55"
+    },
+    {
+        "name": "Radeon HD 8250",
+        "performance": "0.55"
+    },
+    {
+        "name": "GeForce GT 230M",
+        "performance": "0.55"
+    },
+    {
+        "name": "Radeon HD 2600 PRO",
+        "performance": "0.55"
+    },
+    {
+        "name": "GeForce Go 7600 GT",
+        "performance": "0.54"
+    },
+    {
+        "name": "GeForce Go 7800 GTX",
+        "performance": "0.54"
+    },
+    {
+        "name": "GeForce 320M",
+        "performance": "0.54"
+    },
+    {
+        "name": "Quadro NVS 320M",
+        "performance": "0.54"
+    },
+    {
+        "name": "GeForce 9700M GT",
+        "performance": "0.54"
+    },
+    {
+        "name": "Radeon HD 4650 AGP",
+        "performance": "0.54"
+    },
+    {
+        "name": "NVS 3100M",
+        "performance": "0.53"
+    },
+    {
+        "name": "GeForce 7950 GX2",
+        "performance": "0.52"
+    },
+    {
+        "name": "Radeon HD 6380G",
+        "performance": "0.52"
+    },
+    {
+        "name": "Radeon HD 4570",
+        "performance": "0.51"
+    },
+    {
+        "name": "Radeon HD 6450",
+        "performance": "0.51"
+    },
+    {
+        "name": "Radeon HD 8210E",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon HD 6430M",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 6800 GS",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon HD 8210",
+        "performance": "0.50"
+    },
+    {
+        "name": "NVS 5100M",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 9500 GS",
+        "performance": "0.50"
+    },
+    {
+        "name": "Quadro FX 1700",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon HD 6230",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce Go 7900 GS",
+        "performance": "0.50"
+    },
+    {
+        "name": "Quadro FX 1700M",
+        "performance": "0.50"
+    },
+    {
+        "name": "Mobility Radeon HD 3670",
+        "performance": "0.50"
+    },
+    {
+        "name": "HD Graphics 400 (Braswell)",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 9200",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce GT 325M",
+        "performance": "0.50"
+    },
+    {
+        "name": "Quadro FX 1500",
+        "performance": "0.50"
+    },
+    {
+        "name": "Quadro FX 1500M",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce G102M",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 9500 GT",
+        "performance": "0.50"
+    },
+    {
+        "name": "Quadro FX 580",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 7600 GS",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 8600 GTS",
+        "performance": "0.50"
+    },
+    {
+        "name": "Quadro FX 380",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon HD 7340",
+        "performance": "0.50"
+    },
+    {
+        "name": "Mobility Radeon HD 5145",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 8200",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 9400 GT",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon HD 3650",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon HD 3650 AGP",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon X1950 CrossFire Edition",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 305M",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 8400 GS",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce GT 120M",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon HD 6320",
+        "performance": "0.50"
+    },
+    {
+        "name": "Mobility Radeon HD 545v",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon X1900 GT",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce Go 7700",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce GT 130M",
+        "performance": "0.50"
+    },
+    {
+        "name": "Quadro 400",
+        "performance": "0.50"
+    },
+    {
+        "name": "Quadro FX 3450",
+        "performance": "0.50"
+    },
+    {
+        "name": "FirePro 2270",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 6600 GT",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 6800 GT",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 9200M",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon HD 6350",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon HD 8180",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon X1800 GTO",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon X1900 CrossFire Edition",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 6800 Ultra",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 8500 GT",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 9650M GT",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce Go 6800 Ultra",
+        "performance": "0.50"
+    },
+    {
+        "name": "NVS 2100M",
+        "performance": "0.50"
+    },
+    {
+        "name": "Mobility Radeon HD 3650",
+        "performance": "0.50"
+    },
+    {
+        "name": "Mobility Radeon HD 4570",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon HD 4350",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon HD 5450",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 7300 GT",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 7650 GS",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 9500M GS",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 9600M GT",
+        "performance": "0.50"
+    },
+    {
+        "name": "Quadro NVS 160M",
+        "performance": "0.50"
+    },
+    {
+        "name": "Mobility Radeon HD 4530",
+        "performance": "0.50"
+    },
+    {
+        "name": "Mobility Radeon HD 540v",
+        "performance": "0.50"
+    },
+    {
+        "name": "HD Graphics (Sandy Bridge)",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 9600M GS",
+        "performance": "0.50"
+    },
+    {
+        "name": "Quadro FX 1600M",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon HD 7310",
+        "performance": "0.50"
+    },
+    {
+        "name": "Mobility FireGL V5700",
+        "performance": "0.50"
+    },
+    {
+        "name": "Mobility Radeon HD 2600 XT",
+        "performance": "0.50"
+    },
+    {
+        "name": "Mobility Radeon HD 4330",
+        "performance": "0.50"
+    },
+    {
+        "name": "Mobility Radeon HD 4550",
+        "performance": "0.50"
+    },
+    {
+        "name": "Mobility Radeon HD 5430",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon X800 SE",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce Go 7600",
+        "performance": "0.50"
+    },
+    {
+        "name": "ION 2",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon HD 6310",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon HD 4250",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 6800 XT",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 8600 GT",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 8700M GT",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce G105M",
+        "performance": "0.50"
+    },
+    {
+        "name": "Quadro FX 1400",
+        "performance": "0.50"
+    },
+    {
+        "name": "Quadro FX 380 LP",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon HD 2400",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon HD 2400 XT",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon HD 3450",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon HD 3470",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 9400M (G) / ION (LE)",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 9500M G",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce GT 220M",
+        "performance": "0.50"
+    },
+    {
+        "name": "NVS 300",
+        "performance": "0.50"
+    },
+    {
+        "name": "Quadro FX 380M",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon HD 2400 PRO",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon X1600 XT",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon X800 GTO",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 210",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 310M",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 315M",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 8300 GS",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce G210M",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce Go 7800",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon HD 7290",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon HD 2600 PRO AGP",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon HD 4200",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon X1950 PRO",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 6800",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 9200M GS",
+        "performance": "0.50"
+    },
+    {
+        "name": "Quadro FX 560",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon HD 4270",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 6800 LE",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 8400M GS",
+        "performance": "0.50"
+    },
+    {
+        "name": "Quadro FX 370 LP",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon HD 6290",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon X1950 GT",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce Go 6800",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce GT 320M",
+        "performance": "0.50"
+    },
+    {
+        "name": "Quadro FX 570M",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 8300",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 9300 GS",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 9300M GS",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 9400M",
+        "performance": "0.50"
+    },
+    {
+        "name": "Quadro FX 4000",
+        "performance": "0.50"
+    },
+    {
+        "name": "Quadro FX Go1400",
+        "performance": "0.50"
+    },
+    {
+        "name": "Quadro NVS 420",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon X1600 PRO",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon X800 XT",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 6700 XL",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 9400",
+        "performance": "0.50"
+    },
+    {
+        "name": "ION LE",
+        "performance": "0.50"
+    },
+    {
+        "name": "Quadro NVS 130M",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon HD 6250",
+        "performance": "0.50"
+    },
+    {
+        "name": "Mobility Radeon HD 3470",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 8600 GS",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce G205M",
+        "performance": "0.50"
+    },
+    {
+        "name": "Quadro FX 370M",
+        "performance": "0.50"
+    },
+    {
+        "name": "Quadro NVS 295",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 6610 XL",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 7500 LE",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 8600M GT",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon X1300 PRO",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon X1650 PRO",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon X800",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon X800 GT",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 6600",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 9300M G",
+        "performance": "0.50"
+    },
+    {
+        "name": "ION",
+        "performance": "0.50"
+    },
+    {
+        "name": "Quadro FX 350",
+        "performance": "0.50"
+    },
+    {
+        "name": "Quadro FX 360M",
+        "performance": "0.50"
+    },
+    {
+        "name": "Quadro FX 370",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon HD 3200",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon X800 XT Platinum",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon X850 XT",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon X850 XT Platinum",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 7300 LE",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 8400",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 9100",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 9300 GE",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 9300 SE",
+        "performance": "0.50"
+    },
+    {
+        "name": "Quadro FX 540",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 7300 GS",
+        "performance": "0.50"
+    },
+    {
+        "name": "Quadro NVS 140M",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon X1650 GTO",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon X700",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon X700 PRO",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon X850 PRO",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 7350 LE",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon X1650",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon X1650 SE",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon X700 SE",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon X800 XL",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 8400 SE",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 8600M GS",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 9100M G",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce Go 6600",
+        "performance": "0.50"
+    },
+    {
+        "name": "Quadro FX 3000",
+        "performance": "0.50"
+    },
+    {
+        "name": "Quadro NVS 150M",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon X1550",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon X600 PRO",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon X800 PRO",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 8400M GT",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 9400M G",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce Go 7400",
+        "performance": "0.50"
+    },
+    {
+        "name": "Quadro NVS 450",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce G 103M",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce G 105M",
+        "performance": "0.50"
+    },
+    {
+        "name": "Quadro FX 550",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon 9800",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon 9800 PRO",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon 9800 XT",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon X1300",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 6800 XE",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 8200M G",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 8400M G",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce FX 5950 Ultra",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon 9700",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon 9700 PRO",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 6200 TurboCache",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon E2400",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon X1050",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon X1600",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon X550",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon X600",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon X600 SE",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 6600 LE",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 7100 GS",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce FX Go5700",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce Go 7300",
+        "performance": "0.50"
+    },
+    {
+        "name": "Quadro NVS 135M",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce Go 7200",
+        "performance": "0.50"
+    },
+    {
+        "name": "Quadro NVS 110M",
+        "performance": "0.50"
+    },
+    {
+        "name": "Quadro NVS 120M",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon 9500 PRO",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon 9600 PRO",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon Xpress 1250",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce FX 5900 Ultra",
+        "performance": "0.50"
+    },
+    {
+        "name": "Quadro FX 350M",
+        "performance": "0.50"
+    },
+    {
+        "name": "Quadro NVS 285",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 6200",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 6500",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 7300 SE",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce FX 5700",
+        "performance": "0.50"
+    },
+    {
+        "name": "Quadro NVS 440",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon 9500",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon 9550",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon 9600",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon 9600 XT",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon Xpress 1100",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 6150 LE",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce FX 5700 Ultra",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce FX 5900",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce PCX 5750",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce PCX 5900",
+        "performance": "0.50"
+    },
+    {
+        "name": "Quadro FX 1000",
+        "performance": "0.50"
+    },
+    {
+        "name": "Quadro FX 1100",
+        "performance": "0.50"
+    },
+    {
+        "name": "Quadro FX 1300",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon Xpress 1150",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 6100",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 6200 LE",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon 9800 SE",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon Xpress 200M",
+        "performance": "0.50"
+    },
+    {
+        "name": "Matrox M9125 PCIe x16",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 7200 GS",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce Go 6400",
+        "performance": "0.50"
+    },
+    {
+        "name": "Quadro NVS 210S",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon 9600 TX",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 6150",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 7150M",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce Go 6150",
+        "performance": "0.50"
+    },
+    {
+        "name": "Quadro FX 2000",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce FX 5600 Ultra",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce FX Go5650",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce Go 6100",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce Go 6200",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce 7000M",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce FX 5200 Ultra",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce FX 5600",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce FX Go5300",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon 8500",
+        "performance": "0.50"
+    },
+    {
+        "name": "Radeon IGP 350M",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce FX 5100",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce FX 5200",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce FX 5500",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce FX Go 5200",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce PCX 5300",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce2 Ultra",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce4 Ti 4400",
+        "performance": "0.50"
+    },
+    {
+        "name": "GeForce4 Ti 4800 SE",
+        "performance": "0.50"
+    },
+    {
+        "name": "Quadro NVS 280 PCI",
+        "performance": "0.50"
+    },
+    {
+        "name": "Quadro4 380 XGL",
+        "performance": "0.50"
+    }
+]
